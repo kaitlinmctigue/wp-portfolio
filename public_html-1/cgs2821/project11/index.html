@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Katie McTigue</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" type="text/css">
+	<link href="media-queries.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link href='http://fonts.googleapis.com/css?family=Josefin+Sans:300,400|Source+Code+Pro:200,400|Roboto:100, 700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<!-----------------SPLASH----------------->
+<section id="splash">
+    <!--Name etc -->
+<div id="intro">
+	<div class="container">  <!-- container  -->
+		<h1>KATIE MCTIGUE</h1>
+		<br><br>
+		<!--
+		<p>designer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; artist&nbsp;&nbsp;&nbsp;&nbsp;</p>
+		<p>communicator &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; photographer</p> -->
+	</div> <!-- end container  -->
+</div> <!-- end intro -->
+
+    <!--Navigation Bar holds Navigation Buttons -->
+<div id="navbar">
+	<div class="container">  <!-- container keeps everything aligned and centered no matter what the window size -->
+		<ul  id="menu">
+			<!-- button class provides button-like appearance and scrolling javascript (see bottom of html code) -->
+			<li><a href="#resume" class="button">resume</a></li>
+			<li><a href="#photo" class="button">photography</a></li>
+   			<li><a href="#design" class="button">design</a></li>
+            <li><a href="#art" class="button">art</a></li>
+            <li><a href="#writing" class="button">video</a></li>
+		</ul>
+	</div> <!-- end container -->
+</div> <!-- end navbar -->
+</section>
+<!-----------------RESUME----------------->
+<section id="resume">
+	<div id="res">
+    <span style= vertical-align: middle><div align="middle"><Img src="images/resume.jpg" width= "1200" align= "middle"></div></span>
+	</div>
+</section>
+<!-----------------PHOTO----------------->
+<section id="photo">
+	<div class="container2">
+		<h2><b>PHOTOGRAPHY</b></h2><br><br><br><br>
+		<img class="responsive" src="images/stopsign.jpg" width="200" class="fltright"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nulla congue, pharetra diam in, condimentum risus. Maecenas dui lorem, fringilla nec vehicula eu, vestibulum sit amet purus. Praesent tempor ante vel ipsum eleifend, vitae tristique massa fermentum. Sed scelerisque leo metus, sit amet ullamcorper dolor maximus in.</p>
+		<h3><a href="http:www.kmctigue.com">visit gallery</a></h3>
+		</div>
+</section>
+<!-----------------DESIGN----------------->
+<section id="design">
+    <div class="container2">
+		<h2><b>DESIGN</b></h2><br><br><br><br>
+		<h3><a href="http:www.kmctigue.com">visit gallery</a></h3>
+	</div>
+</section>
+<!-----------------ART----------------->
+<section id="art">
+    <div class="container2">
+		<h2><b>ART</b></h2><br><br><br><br>
+		<h3><a href="http:www.kmctigue.com">visit gallery</a></h3>
+	</div>
+</section>
+<!-----------------WRITING----------------->
+<section id="writing">
+    <div class="container2">
+		<h2><b>VIDEO</b></h2><br><br><br><br>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/UxpB88Qr85A" frameborder="0" allowfullscreen></iframe>
+	</div>
+</section>
+<!-----------------FOOTER----------------->
+<section id="footer">
+	<div id="credits"> 
+	<div class="container2">
+    <h4><em><a href="mailto:krm14h@my.fsu.edu"><span style="color: #000">Katie McTigue, krm14h@my.fsu.edu</a>, 2015</span></em></p>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span style="color: #000">Creative Commons Attribution 4.0 International License</span></a>.</h4>
+	<h4><em>The Author:</em></h4>
+<img src="images/self_portrait_recognizable.jpg" width="200" alt="Self Portrait 2014">
+
+<table width="200">
+  <tr>
+    <td bgcolor="#105B63">&nbsp;</td> <!-- light -->
+    <td bgcolor=" #FFFAD5">&nbsp;</td> <!-- dark -->
+    <td bgcolor="#DB9E36">&nbsp;</td> <!-- green -->
+	<td bgcolor="#BD4932">&nbsp;</td>
+	<td bgcolor="#FFD34E">&nbsp;</td>
+  </tr>
+</table>
+</div>
+	</div>
+
+</section>
+
+<!-- JAVASCRIPT CODE -->
+<!--jquery required for scrolling effect -->
+<script src="js/jquery.js"></script>
+<!-- Scrolling navigation script by Geo Miller glmiller@pic.fsu.edu -->  
+<script type='text/javascript'>
+jQuery(document).ready(function () {
+  jQuery('.button').click(function() {
+    targetName = jQuery(this).attr('href');
+    targetLocation = jQuery(targetName).offset().top;
+    jQuery('html, body').animate({scrollTop:targetLocation}, 'slow');
+    return false;
+  });
+});
+</script>
+</body>
+</html>

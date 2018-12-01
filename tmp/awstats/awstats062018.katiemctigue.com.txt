@@ -1,0 +1,1201 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/kmctigue/tmp/awstats/awstats.katiemctigue.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 34794               
+POS_DAY 43016               
+POS_DOMAIN 3607                
+POS_LOGIN 4265                
+POS_ROBOT 4420                
+POS_WORMS 5335                
+POS_EMAILSENDER 5466                
+POS_EMAILRECEIVER 5609                
+POS_SESSION 43870               
+POS_SIDER 44080               
+POS_FILETYPES 5744                
+POS_DOWNLOADS 6058                
+POS_OS 6436                
+POS_BROWSER 6839                
+POS_SCREENSIZE 9621                
+POS_UNKNOWNREFERER 9695                
+POS_UNKNOWNREFERERBROWSER 10180               
+POS_ORIGIN 10466               
+POS_SEREFERRALS 10609               
+POS_PAGEREFS 10875               
+POS_SEARCHWORDS 11275               
+POS_KEYWORDS 14048               
+POS_MISC 2359                
+POS_ERRORS 16718               
+POS_CLUSTER 4121                
+POS_SIDER_404 16895               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701001107 234 58411 15914691309647
+FirstTime 20180601000631
+LastTime 20180630214114
+LastUpdate 20180701012312 234 0 233 0 0
+TotalVisits 559                 
+TotalUnique 171                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 224                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 6 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 51 256 53680387 52 120 5804963
+1 25 87 4689934 65 152 3855119
+2 23 106 5452387 39 73 3159343
+3 41 129 7961069 99 228 4517659
+4 23 23 237892 36 101 3688662
+5 40 75 1958225 49 137 4285307
+6 28 46 515434 50 112 2857470
+7 137 137 460000 1858 1891 2087635
+8 38 87 4025929 1954 1993 6698327
+9 22 30 2974008 1709 1760 4472247
+10 83 448 141024583 194 252 11856434
+11 31 84 6230587 39 126 3994739
+12 42 209 58016394 58 74 10832290
+13 30 73 3823462 28 51 2345095
+14 28 98 25361352 35 51 1050207
+15 33 89 19266576 30 45 835037
+16 37 131 104784220 45 69 2322597
+17 61 421 135872732 46 66 3811600
+18 20 104 5475889 38 69 1674219
+19 35 142 6511039 8200 8277 6906052
+20 23 69 3893163 8240 8258 1672541
+21 27 107 5560023 46 122 6640745
+22 22 28 1845121 33 72 1488470
+23 37 110 5622649 20 36 2187410
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+us 685 2035 372909781
+ua 121 121 411259
+vn 35 35 132965
+ru 25 135 5588703
+il 15 199 93181670
+fr 11 108 62587824
+in 8 123 37080742
+gb 8 9 836222
+br 6 145 13433392
+ca 4 4 76422
+de 2 2 41064
+ph 2 59 3721424
+cl 2 5 387245
+it 2 3 5957483
+es 2 53 5968435
+nl 2 3 268268
+pt 1 1 2853
+cw 1 1 38211
+mx 1 36 1525654
+at 1 1 0
+ma 1 1 38211
+za 1 2 12748
+ro 1 1 38211
+tr 0 1 12748
+kr 0 1 192686
+pe 0 1 12748
+ae 0 1 12748
+ir 0 1 230056
+be 0 1 12748
+sa 0 1 530534
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+googlebot 416 14079724 20180627000553 19
+bot[\s_+:,\.\;\/\\-] 387 16919958 20180627003455 123
+spider 149 11910502 20180626182759 1
+Googlebot/ 130 4875390 20180630235010 3
+bingpreview 92 7549668 20180625193735 0
+aiHitBot/ 75 1914390 20180630035405 2
+[\s_+:,\.\;\/\\-]bot 45 5126759 20180626150719 0
+no_user_agent 23 853829 20180630190615 0
+robot 22 113671 20180627090926 10
+YandexBot/ 22 275116 20180630121230 13
+crawl 20 522443 20180610081222 1
+unknown 19 1273 20180630140025 19
+Baiduspider/ 16 359433 20180629210422 0
+Mail\.RU_Bot/ 9 41087 20180629193131 5
+DotBot/ 9 757421 20180629040355 5
+bingbot/ 5 26433 20180630090953 1
+(firefox/)([0-9]\.|[0-1][0]\.) 5 216083 20180627053632 0
+YandexImages/ 3 0 20180629004438 0
+curl 1 0 20180611004249 0
+googlebot\-image 1 0 20180622104943 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 446 28954313 0 0
+jpg 342 417436963 0 0
+woff2 17 1248552 0 0
+pdf 3 419685 0 0
+Unknown 1 2198 0 0
+js 1032 27539772 0 0
+png 294 117717009 0 0
+xml 1 1045 0 0
+html 351 9101111 0 0
+eot 3 497226 0 0
+gif 33 1955229 0 0
+txt 2 2070 0 0
+php 564 367882 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/wp-content/uploads/2015/10/Resume_K_McTigue_2017_web.pdf 13 0 1818635
+/wp-content/uploads/2014/10/KMcTigue_Resume_20162017_V.pdf 4 0 1957048
+/wp-content/uploads/2015/10/Red-Sol-Position-Paper.pdf 3 0 614970
+/wp-content/uploads/2015/11/Resume_K_McTigue_2015.pdf 3 0 4835043
+/wp-content/plugins/contact-form-7/license.txt 2 0 2070
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+macosx9 18 2
+win2000 2 2
+winnt 327 152
+macosx6 9 1
+winxp 18 12
+macosx5 1 1
+macosx7 8 0
+win10 68 11
+macosx4 7 7
+win8 94 12
+winunknown 47 2
+macosx8 15 1
+bsdnetbsd 1 1
+linuxandroid 281 22
+winlong 59 15
+win7 505 44
+win2003 6 6
+ios_iphone 208 15
+linuxubuntu 3 1
+macosx 361 72
+unix 114 9
+macosx12 5 4
+linux 362 55
+Unknown 507 479
+win8.1 63 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 133
+chrome58.0.3029.110 7 7
+chrome57.5.1276.6548 1 1
+chrome61.0.3163.100 15 15
+firefox45.67.20 1 1
+chrome40.0.2214.111 6 0
+msie11.0 11 1
+opera12.17 1 1
+chrome11.0.696.3 1 1
+firefox50.0 1 1
+iphone 158 12
+chrome32.0.1700.107 53 2
+chrome32.0.1700.41 3 0
+firefox60.0 69 4
+opera12.16 3 0
+chrome32.0.1700.76 37 2
+chrome34.0.1847.137 3 3
+chrome59.0.3071.125 2 0
+chrome11.0.655.0 1 0
+msie10.0 127 9
+firefox29.0 1 1
+safari5.3.7 1 1
+firefox45.0 1 1
+firefox57.0 2 2
+msie6.0 1 1
+chrome37.0.2049.0 1 1
+chrome66.0.3359.158 52 3
+firefox10.0.2 2 2
+opera40.6.1606.7978 1 1
+firefox27.0 6 3
+chrome12.0.742.91 2 0
+chrome66.0.3359.139 79 5
+safari11.1.1 69 3
+firefox27.3 3 0
+firefox52.0 2 2
+chrome27.0.1453.116 5 5
+opera44.6.1392.6664 3 3
+chrome67.0.3396.79 2 0
+chrome63.0.3205.0 37 2
+chrome56.0.2924.87 1 1
+firefox38.0 47 2
+chrome63.0.3239.84 1 1
+firefox52.41.98 3 3
+chrome67.0.3396.87 228 18
+opera53.0.2907.68 105 8
+chrome47.0.2526.111 43 1
+opera42.0.5899.9526 1 1
+msie11 1 0
+chrome34.0.1847.116 1 1
+chrome66.0.3359.203 59 2
+chrome50.0.2661.102 19 19
+chrome26.0.1410.65 1 1
+chrome53.6.1637.6809 1 1
+chrome64.0.3282.137 49 2
+safari4.0.5 1 1
+firefox28.0 4 0
+chrome31.0.1650.57 8 0
+firefox33.0 2 2
+chrome56.2.7259.2987 1 1
+chrome36.0.1985.143 136 5
+opera42.9.4124.9852 1 1
+chrome40.0.2214.93 1 1
+opera41.9.4015.9743 1 1
+chrome31.0.1650.63 50 6
+chrome5.0.375.99 2 2
+firefox34.0 4 4
+msie8.0 3 3
+safari5.4.9 1 1
+safari5.2.7 1 1
+safari4.6.1 2 2
+chrome57.5.0412.5784 1 1
+chrome37.0.2062.120 4 4
+firefox42.0 1 1
+chrome65.0.3325.181 250 41
+safari4.7.2 2 2
+firefox52.68.11 1 1
+safari7.0 1 0
+chrome57.5.0409.5772 1 1
+safari5.4.8 1 1
+chrome35.0.1916.153 3 0
+chrome64.0.3282.186 2 2
+opera41.9.4170.9808 1 1
+firefox59.0 3 3
+safari11.0 52 5
+chrome66.0.3359.181 129 10
+opera41.9.4841.9579 1 1
+android 1 0
+chrome62.0.3202.94 1 1
+Unknown 498 476
+opera40.6.1935.6208 1 1
+chrome57.5.0165.5438 1 1
+chrome57.5.1484.6756 2 2
+chrome55.1.5775.0403 1 1
+chrome55.1.6104.1832 1 1
+firefox32.0 1 1
+chrome10.0.648.204 1 0
+chrome13.0.782.41 1 1
+safari5.1.9 3 0
+chrome50.0.2661.75 4 4
+chrome53.6.0212.5940 1 1
+firefox26.0 32 3
+safari6.1.1 4 0
+chrome41.0.2272.96 2 2
+chrome57.5.1030.6302 1 1
+safari6.1 5 0
+chrome53.7.3083.8355 1 1
+safari6.0.5 5 0
+firefox48.0 2 2
+opera44.5.0653.5925 1 1
+safari5.3.8 1 1
+mozilla 27 21
+safari7.0.1 1 0
+chrome32.0.1700.72 4 0
+chrome57.4.9654.4382 1 1
+opera46.0.2597.57 1 1
+chrome41.0.2228.0 2 2
+firefox24.0 6 2
+chrome67.0.3396.68 70 8
+chrome63.0.3239.132 114 114
+chrome41.0.2227.0 5 1
+safari 47 2
+chrome66.0.3359.117 1 1
+safari11.0.3 2 2
+chrome67.0.3396.81 106 7
+chrome57.5.9484.4112 1 1
+chrome32.0.1700.68 5 0
+firefox36.0 2 0
+firefox25.0 10 1
+firefox45.57.04 1 1
+msie9.0 47 2
+firefox53.0 1 1
+chrome16.0.912.63 1 1
+firefox45.70.23 1 1
+chrome67.0.3396.99 61 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible) 20180618173427
+WordPress/4.6.11;_http://katiemctigue.com 20180630214114
+redback/v0-570-g26f8c96 20180601152447
+python-requests/2.18.4 20180610234507
+slack/2.60.0.9288_(Google_Pixel;_Android_8.0.0) 20180607162139
+Mozilla/6.0_(compatible) 20180618173507
+Mozilla/5.0_(compatible;_ips-agent) 20180609002101
+Faraday_v0.14.0 20180620103824
+facebookexternalhit/1.1 20180610080637
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+facebookexternalhit/1.1 20180610080637
+Faraday_v0.14.0 20180620103824
+WordPress/4.6.11;_http://katiemctigue.com 20180630214114
+python-requests/2.18.4 20180610234507
+redback/v0-570-g26f8c96 20180601152447
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 205 475
+From1 5 5
+From2 14 29
+From3 19 19
+From4 694 2561
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+yandex 2 2
+www_google_co_uk 0 1
+yandexru 1 1
+duckduckgo 1 1
+bing 0 1
+www_google_com_br 0 1
+google 5 17
+www_google_com 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+https://l.instagram.com 4 4
+http://resell-seo-services.com/try.php 4 4
+http://l.instagram.com 3 3
+http://hundejo.com 2 2
+https://www.cjb.net 2 2
+http://seoservices2018.com 1 1
+http://site.ru 1 1
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1831.jnhicrq2fntaixebmynyhx6kea8yd2-_yh8r8wrho-mqmuo8d3rigousqhberbcx.b3a92c2bd84cc4608d3c9e87b7abab565c57c2c3%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymkospatjluqgxh-xwlwn-g%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfh0nkw0ujm2r3rnbmrpcm9wckeyejvssedqeunuzvgxmeruoejbq0zjsgzdzk9ynflxr1nwrfk%26b64e%3d2%26sign%3df42b9cf7f9360d6cbda1c49f90965faa%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqe3irxbpwiv4wsiq_tnd58wmfyoji--jadncmp0ks9pznxosz8wxv5ukudjfae8f78rllxb7zlct0jyhcrhox6nkmj2z5b026q0lrmvkaze9mjfz2cvhi-lamjnjqincdl6nshzqskpc%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcwlmumpz38proug0kcnfx_c-yrb5l6f23qt0y1mozzcbfj9axkizxtvwsqg76gpqf5pjbyvphyvjq%26l10n%3dru%26cts%3d1530048497521%26mc%3d5.83397405914 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1825.2vpoyvq6ubitwjd1i9yts_ea1wq6gzc2wwbxpvkebjdflhtogjvkctb51r5-cump.8254db844332e6c6da30049c508f47e0dcece177%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ygv9izwkiy-e54gyiollmfa%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfh0v1fmalzgslzpyui0djnayudvbwlynupyby1dutb4wxljwv8wazuwsi1tzxpuwvvyeldbtgc%26b64e%3d2%26sign%3d1f32bbba507e2e3de94d08075b89a830%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fxw2uwbkefn1yvljmg7qz6bmmdhgab9awtqrqhd1lcoypsn_cbaiwxy8ysknxqurqtsd0j_pqjpiabiupf7_vaadyuwl-ywjwtumrw8y-5n-eaphoc9hap6qs46hh_n1s%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcuplg4bhkqjvnxd2ubkbonbbf7tss_b_bsbzkiff110ldk3hj-rkho8pgdcaxc98snfepftdlv7wq%26l10n%3dru%26cts%3d1529527931469%26mc%3d6.21861887947 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.xmmxgb7q7ddlz3covpwbgqbnposudnc-vttggv_-cxlfqhcmnvmz2xcegpicleid.69474bb1169d204854d62992a0ba517ad042d82b%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yfuvnhhyyhjgrfg5yelmiwu%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfhxzedjt2jwmgvqstjxbkz6ay1uqmj3mmvddljszmzwqvnla2v4q05dcxfaq0xjdtzubgvwahm%26b64e%3d2%26sign%3d90179fd6ce42a86016573bd8b6724358%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uql9wj9qokanywsrdbs8easqdplmk92s_csqsm0r9v29qb4steabwo1xnoen_fvpb3oiqvmuvzd2jw2j5voguy_kcpffh3ymgq62lm0ntblhypyiq8cjdfmkg%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcw4rgmau5ryjp5wrwfe9q0gnas3g7erghdho1oivmfowa7wrsmessrwgh0-1cuq_muxswh059ukiq%26l10n%3dru%26cts%3d1530081319353%26mc%3d7.40611700551 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+https 3
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1825.2vpoyvq6ubitwjd1i9yts_ea1wq6gzc2wwbxpvkebjdflhtogjvkctb51r5-cump.8254db844332e6c6da30049c508f47e0dcece177%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ygv9izwkiy-e54gyiollmfa%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfh0v1fmalzgslzpyui0djnayudvbwlynupyby1dutb4wxljwv8wazuwsi1tzxpuwvvyeldbtgc%26b64e%3d2%26sign%3d1f32bbba507e2e3de94d08075b89a830%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fxw2uwbkefn1yvljmg7qz6bmmdhgab9awtqrqhd1lcoypsn_cbaiwxy8ysknxqurqtsd0j_pqjpiabiupf7_vaadyuwl-ywjwtumrw8y-5n-eaphoc9hap6qs46hh_n1s%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcuplg4bhkqjvnxd2ubkbonbbf7tss_b_bsbzkiff110ldk3hj-rkho8pgdcaxc98snfepftdlv7wq%26l10n%3dru%26cts%3d1529527931469%26mc%3d6.21861887947 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.xmmxgb7q7ddlz3covpwbgqbnposudnc-vttggv_-cxlfqhcmnvmz2xcegpicleid.69474bb1169d204854d62992a0ba517ad042d82b%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yfuvnhhyyhjgrfg5yelmiwu%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfhxzedjt2jwmgvqstjxbkz6ay1uqmj3mmvddljszmzwqvnla2v4q05dcxfaq0xjdtzubgvwahm%26b64e%3d2%26sign%3d90179fd6ce42a86016573bd8b6724358%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uql9wj9qokanywsrdbs8easqdplmk92s_csqsm0r9v29qb4steabwo1xnoen_fvpb3oiqvmuvzd2jw2j5voguy_kcpffh3ymgq62lm0ntblhypyiq8cjdfmkg%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcw4rgmau5ryjp5wrwfe9q0gnas3g7erghdho1oivmfowa7wrsmessrwgh0-1cuq_muxswh059ukiq%26l10n%3dru%26cts%3d1530081319353%26mc%3d7.40611700551 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1831.jnhicrq2fntaixebmynyhx6kea8yd2-_yh8r8wrho-mqmuo8d3rigousqhberbcx.b3a92c2bd84cc4608d3c9e87b7abab565c57c2c3%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymkospatjluqgxh-xwlwn-g%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxau5uyw5pnentd05iq0vat0tfm3mwzu9peutfyuxjnfh0nkw0ujm2r3rnbmrpcm9wckeyejvssedqeunuzvgxmeruoejbq0zjsgzdzk9ynflxr1nwrfk%26b64e%3d2%26sign%3df42b9cf7f9360d6cbda1c49f90965faa%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqe3irxbpwiv4wsiq_tnd58wmfyoji--jadncmp0ks9pznxosz8wxv5ukudjfae8f78rllxb7zlct0jyhcrhox6nkmj2z5b026q0lrmvkaze9mjfz2cvhi-lamjnjqincdl6nshzqskpc%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcwlmumpz38proug0kcnfx_c-yrb5l6f23qt0y1mozzcbfj9axkizxtvwsqg76gpqf5pjbyvphyvjq%26l10n%3dru%26cts%3d1530048497521%26mc%3d5.83397405914 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 3 3607
+301 95 0
+404 586 15337274
+405 6 252
+206 6 15777136
+403 16644 2382604
+400 1 115
+302 5339 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 423
+/info.php 3 http://site.ru
+/portfolio/women-drowning-photos/%22mailto:Kaitlinmctigue@gmail.com 1 http://katiemctigue.com/portfolio/women-drowning-photos/
+/ws0.php 2 http://site.ru
+/portfolio/diverse-computing-rebranding/%22mailto:Kaitlinmctigue@gmail.com 2 http://katiemctigue.com/portfolio/diverse-computing-rebranding/
+/adminer-4.0.1-en.php 1 -
+/wp-content/wp-plugins.php 2 http://site.ru
+/wp-content/themes/notio-wp/assets/img/product-preloader.gif 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/~adminer.php 1 -
+/wp-content/uploads/cache.php 1 http://site.ru
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/bd.php 1 -
+/wp-admin/home.bak.php 1 katiemctigue.com
+/adminer-4.2.4-en.php 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/Meuhy.php 1 http://site.ru
+/adminer-4.3.0-en.php 1 -
+/portfolio/ecitations/ 1 -
+/padminer.php 1 -
+/wp-includes/js/tinymce/plugins/wpemoji/403.php 4 http://site.ru
+/wss.php 2 http://site.ru
+/1.php-hack 1 http://site.ru
+/c.php 1 http://site.ru
+/adminer-3.5.1.php 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/ekomi/popup-pomo.php 1 http://site.ru
+/text.php 1 http://site.ru
+/adminer-4.6.1.php 1 -
+/wp-content/uploads/2016/12/r11-1.php 2 http://site.ru
+/adminer-4.2.5.php 1 -
+/wp-content/plugins/cleantalk-spam-protect/readme.txt 1 -
+/therm.php 1 http://site.ru
+/wp-admin/css/colors/ectoplasm/smile.php 1 http://site.ru
+/portfolio/oregon-cch/%22mailto:Kaitlinmctigue@gmail.com 2 -
+/product/desk-chair/embed/%22mailto:Kaitlinmctigue@gmail.com 1 -
+/adminer-4.2.2-en.php 1 -
+/product-tag/downloadable/%22mailto:Kaitlinmctigue@gmail.com 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 2 http://site.ru
+/wp-content/plugins/background-image-cropper/image/ico/search.php 1 katiemctigue.com
+/adminer-3.6.3-en.php 1 -
+/wp-admin/maint/repost.php 2 http://site.ru
+/index8632.php 1 http://site.ru
+/verygs.php 1 http://site.ru
+/ui-elements.php 1 http://site.ru
+/wp-inc.php 2 http://site.ru
+/media/media.php 1 -
+/wp-content/plugins/fac/asu.php 2 http://site.ru
+/ 23 -
+/.ftpconfig 1 -
+/wp-content/uploads/_input__test.php5 1 -
+/wp-content/plugins/google-analytics-masters/mark.php 2 http://site.ru
+/wp-content/plugins/woocommerce/dummy_data.xml 2 -
+/dev/adminer.php 1 -
+/adminer-4.2.2.php 1 -
+/wp-content/themes/famous/style.css 1 http://katiemctigue.com/wp-content/themes/famous/style.css
+/administrator/includes/readmy.php 1 katiemctigue.com
+/adminer-4.3.1-en.php 1 -
+/.smileys/systems.php 2 http://site.ru
+/adminer-3.2.0-en.php 1 -
+/wp-includes/Text/Diff/Engine/1.php 2 http://site.ru
+/wp-content/plugins/aksimet/class.aksimet.php 2 http://site.ru
+/wp-pols.php 1 katiemctigue.com
+/systems.php 2 http://site.ru
+/wp-admin/network/user-about.php 1 -
+/0.php 3 http://site.ru
+/page.php 1 http://site.ru
+/sql.php 1 -
+/dsfghs.php 2 http://site.ru
+/wp-json/oembed/1.0/embed 1 -
+/install/models.php 2 http://site.ru
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-admin/user/reader.php 2 http://site.ru
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-admin/includes/rnnvhs.php 1 katiemctigue.com
+/admin_login.php 2 http://site.ru
+/wp-content/themes/sketch/404.php 1 http://site.ru
+/db.php 1 -
+/stats/wp-caches.php 1 http://site.ru
+/models.php 1 http://site.ru
+/wp-content/themes/gaukingo/db.php 2 http://site.ru
+/db-config.php 1 http://site.ru
+/indax.php 1 katiemctigue.com
+/adminer-3.2.0.php 1 -
+/wp-content/plugins/contact-form-7/includes/css/yhged.php 1 http://site.ru
+/contact/%22mailto:Kaitlinmctigue@gmail.com 2 http://katiemctigue.com/contact/
+/image.php 1 http://site.ru
+/adminer-3.3.1.php 1 -
+/adminer-3.3.4-en.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-admin/images/maink.php 1 http://site.ru
+/wp-content/uploads/wp-post.php 2 http://site.ru
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-includes/class.wp-tmps.php 1 katiemctigue.com
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/CHANGELOG.txt 2 -
+/wp-content/plugins/groupsassembly/js/js.php 1 katiemctigue.com
+/configurationbak.php 1 -
+/php.php 1 -
+/wp-config.php- 1 http://katiemctigue.com/wp-config.php-
+/wp-admin/admin-ajax.php 6 -
+/wp-includes/Text/Diff/Engine/text.php 4 http://site.ru
+/adminer-3.6.2-en.php 1 -
+/wp-content/plugins/quick-chat/readme.txt 1 -
+/wp-content/plugins/JumanNafis/wso.php 1 http://site.ru
+/wp-content/uploads/wysija/themes/main/ 1 -
+/hivcxa.php 1 katiemctigue.com
+/wp-content/plugins/revslider/public/assets/assets/timer.png 1 -
+/a.php 1 -
+/wp-content/plugins/delete-all-comments/readme.txt 1 katiemctigue.com
+/adminer-4.6.2-en.php 1 -
+/wp-content/uploads/_input__test.php. 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/modules/modules.php 1 katiemctigue.com
+/adminer-4.6.0.php 1 -
+/aboutme/%22mailto:Kaitlinmctigue@gmail.com 1 http://katiemctigue.com/aboutme/
+/wp-admin/images/cache.php 1 http://site.ru
+/Pamelas.php 2 http://site.ru
+/ws.php 2 http://site.ru
+/wp-admin/css/colors/blue/Marvins.php 3 http://site.ru
+/wp-content/plugins/showbiz/showbiz-plugin/css/settings.css 1 katiemctigue.com
+/wp-content/plugins/wp-statistics/vendor/s1lentium/iptools/tests/Sung.php 1 http://site.ru
+/wp-admin/images/wp-upload.php 1 katiemctigue.com
+/w2.php 2 http://site.ru
+/wp-content/themes/notio-wp/assets/img/separator.png 1 -
+/error_log.php 3 http://site.ru
+/wp-content/themes/twentysixteen/header.php 2 http://site.ru
+/adminer-3.6.4.php 1 -
+/&quot 1 http://katiemctigue.com
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/lndex.php 3 http://site.ru
+/.smileys/bacot.php 1 http://site.ru
+/adminer-3.3.2.php 1 -
+/wp-content/plugins/jetpack/_inc/jetpack-icons/font/server.php 2 http://site.ru
+/wp-content/plugins/wp-symposium/server/php/index.php 1 -
+/hexhglal.php 2 http://site.ru
+/adminer-4.4.0-en.php 1 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 1 -
+/adminer-4.0.2-en.php 1 -
+/wp-updats.php 1 http://site.ru
+/wp-content/plugins/ajax-user/mini.php.fla 3 http://site.ru
+/adminer-4.6.1-en.php 1 -
+/adminer-4.4.0.php 1 -
+/ok.php 1 http://site.ru
+/home.php 1 http://site.ru
+/adminer-4.2.4.php 1 -
+/adminer-3.6.3.php 1 -
+/resume/%22mailto:Kaitlinmctigue@gmail.com 2 http://katiemctigue.com/resume/
+/portfolio/red-sol-campaign/ 3 -
+/LICENSE.php 1 -
+/wp-content/uploader.php 1 http://katiemctigue.com/wp-content/uploader.php
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/hx.php 1 http://site.ru
+/wp-content/plugins/contact-form-7/admin/includes/Marvins.php 1 http://site.ru
+/oc_adminer.php 1 -
+/wp-content/plugins/wp-popup-banners/readme.txt 1 -
+/xml.php 1 http://site.ru
+/Camilles.php 1 http://site.ru
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/inc.php 1 http://site.ru
+/wp-content/themes/wp-conns.php 1 katiemctigue.com
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/modules/mod.php 1 http://site.ru
+/tmp.php 1 katiemctigue.com
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/miniphp.php 1 -
+/up.php 1 -
+/adminer-4.0.3-en.php 1 -
+/adminer-3.7.0.php 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-sbb.php 1 katiemctigue.com
+/adminer-3.5.0.php 1 -
+/conflg.php 1 http://site.ru
+/adminer-3.0.1.php 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 -
+/eadm.php 1 -
+/adminer-4.6.2.php 1 -
+/header_img.php.suspected 1 http://site.ru
+/assets/images/wp-post.php 2 http://site.ru
+/defined.php 3 http://site.ru
+/load-config.php 1 http://site.ru
+/wp-content/plugins/wp-mobile-detector/cache/db.php 1 -
+/core/CHANGELOG.txt 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/cli/851.php 2 http://site.ru
+/pasts.php 1 http://site.ru
+/wp-content/uploads/2018/01/ask.php 2 http://site.ru
+/wp-includes/Text/Diff/Engine/idx.php.pjpeg 3 http://site.ru
+/wp-content/plugins/jetpack/modules/google-analytics/panda.php 1 http://site.ru
+/wp-content/plugins/plugin/info.php 1 http://site.ru
+/wp-admin/includes/fdsj399jdsf.php 1 -
+/wp-logs.php 1 -
+/ajax-requests.new.php 3 http://site.ru
+/wp-content/uploads/wp-dbs.php 1 -
+/wp-content/plugins/./simple-image-manipulator/controller/download.php 1 -
+/.svn/wc.db 1 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://site.ru
+/portfolio/tcc-faculty/ 1 -
+/content-wrapper.php 3 http://site.ru
+/adminer-4.0.0.php 1 -
+/adminer-3.6.2.php 1 -
+/w.php 2 http://site.ru
+/wp-includes/SimplePie/Decode/HTML/daabug.php 2 http://site.ru
+/adminer-3.3.0.php 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/product/handcrafted-watch/%22mailto:Kaitlinmctigue@gmail.com 1 -
+/wp-models.php 1 http://site.ru
+/old/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 http://site.ru
+/wp-xmlrpc.php 1 http://site.ru
+/.well-known/license.php 3 http://site.ru
+/adminer1.php 1 -
+/wp-content/plugins/myshe.php 1 katiemctigue.com
+/dev/sql.php 1 -
+/adminer-4.2.0-en.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 1 -
+/adminer-3.3.3-en.php 1 -
+/adminer-4.3.1.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/wp-content/plugins/gravityforms/css/preview.css 1 -
+/wp-includes/Text/Diff/Engine/engine.php 1 http://site.ru
+/data.php 1 http://site.ru
+/wp-content/themes/error-log.php 1 katiemctigue.com
+/adminer-3.6.1-en.php 1 -
+/wp-config.php~ 1 http://katiemctigue.com/wp-config.php~
+/wp-includes/css/xlqstke.php 2 http://site.ru
+/adminer-4.2.3.php 1 -
+/cinfo.php 1 -
+/adminer-4.2.5-en.php 1 -
+/index1.php 1 http://site.ru
+/adminer-3.6.1.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/adminer-4.1.0.php 1 -
+/wp-system.php.suspected 1 http://site.ru
+/wp-includes/class.wp.php 1 -
+/mod_config.php.suspected 2 http://site.ru
+/adminer-4.5.0.php 1 -
+/wp-post.php 1 http://site.ru
+/df.php 3 http://site.ru
+/adminer-3.3.4.php 1 -
+/adminer-3.3.1-en.php 1 -
+/adminer-3.6.4-en.php 1 -
+/adminer-4.2.0.php 1 -
+/wp-includes/SimplePie/Cache/Meuhy.php 1 http://site.ru
+/portfolio/feed/ 3 -
+/hello.php 1 http://site.ru
+/adminer-4.0.2.php 1 -
+/b.php 1 http://site.ru
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/wp-object-cache.php 1 katiemctigue.com
+/wp-includes/Text/Diff/Engine/yusa.php 1 http://site.ru
+/test/_adminer.php 1 -
+/adminer-3.5.0-en.php 1 -
+/adminer-3.2.2.php 1 -
+/wp-content/plugins/wp-db-backup-made/system.php 2 http://site.ru
+/yjh.php 1 katiemctigue.com
+/wp-content/plugins/xcalendar/data/lefttopcorner.gif 1 katiemctigue.com
+/wp-includes/logo_img.php 1 http://site.ru
+/mysql-adminer.php 1 -
+/wp-wpphp.php 2 http://site.ru
+/wp-info.php 2 http://site.ru
+/adminer-4.2.3-en.php 1 -
+/wp-content/plugins/three-column-screen-layout/db.php.suspected 2 http://site.ru
+/admin.php 3 -
+/system.php 2 http://site.ru
+/adminer-3.5.1-en.php 1 -
+/adminer-3.7.1-en.php 1 -
+/adminer-3.2.1.php 1 -
+/wp-content/plugins/JumanNafis/ind.php 2 http://site.ru
+/portfolio/seo-ace-website/ 1 -
+/_adminer.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 1 -
+/wp-index.php 1 katiemctigue.com
+/wp-content/plugins/three-column-screen-layout/db.php 1 http://site.ru
+/wp-content/plugins/kingcomposer/readme.txt 1 katiemctigue.com
+/wp-content/plugins/ubh/imnus.php 2 http://site.ru
+/log.php 1 http://site.ru
+/wp-content/plugins/wp-photo-seller/css/WPS.css 1 katiemctigue.com
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/adminer-4.0.3.php 1 -
+/adminer-4.2.1.php 1 -
+/aa.php 1 http://site.ru
+/wp-content/themes/sketch/wp-wpphp.php 1 http://site.ru
+/wp-content/plugins/google-sitemap-generator/.move2.php 1 http://site.ru
+/adminer-3.1.0.php 1 -
+/wp-api.php 1 http://site.ru
+/wp-content/uploads/_input_1_test.php. 1 -
+/class-wp-defaults.php 1 http://site.ru
+/y.php 2 http://site.ru
+/pdo.inc.php 2 http://site.ru
+/.smileys/license.php 1 http://site.ru
+/wp-content/themes/notio-wp/thumb.php 2 -
+/config-sample.php 2 http://site.ru
+/dev/_adminer.php 1 -
+/wp-content/plugins/JumanNafis/Vand.php 1 http://site.ru
+/wp-includes/js/jcrop/jcrop.php 1 http://site.ru
+/wp-content/themes/twentyeleven/colors/debug.php 1 http://site.ru
+/adminer-3.7.0-en.php 1 -
+/wp-includes/js/crop/systems.php 4 http://site.ru
+/adminer-3.2.1-en.php 1 -
+/wp-content/plugins/assembly/js/js.php 1 katiemctigue.com
+/wp-content/themes/annotum-baes/xml_rpc.class.php 1 http://site.ru
+/test/adminer.php 1 -
+/adminer-3.6.0.php 1 -
+/adminer-4.0.1.php 1 -
+/adminer-3.3.0-en.php 1 -
+/mysql.php 1 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 1 http://katiemctigue.com/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/wp-content/plugins/apikey/ini.php 4 http://site.ru
+/2.php 1 http://site.ru
+/wp-includes/js/thickbox/thickbox.php 2 http://site.ru
+/wp-press.php 2 http://site.ru
+/prom.php 1 http://site.ru
+/config.php.suspected 2 http://site.ru
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/CWyIog.php 1 http://site.ru
+/wp-content/themes/cubed_v1.2/functions/upload-handler.php 2 -
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+/532299.php 2 http://site.ru
+/wp-admin/logo_img.php 2 http://site.ru
+/wp-content/plugins/contact-form-7/includes/js/kytjgfg.php 2 http://site.ru
+/sql/Adminer/adminer.php 1 -
+/m1.php 2 http://site.ru
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/wp-includes/Text/Diff/Engine/header.php.pjpeg 2 http://site.ru
+/wp-content/uploads/2016/09/db.php 1 -
+/adminer-3.7.1.php 1 -
+/wp-updats.php.suspected 2 http://site.ru
+/author/kmctigue/page/3/ 1 -
+/wp-content/plugins/ubh/Marvins.php 3 http://site.ru
+/scripts/adminer.php 1 -
+/wp-content/plugins/tassembly/js/js.php 1 katiemctigue.com
+/wp-includes/pomo/w7388n.php 1 katiemctigue.com
+/adminer-4.2.1-en.php 1 -
+/print.php 3 http://site.ru
+/wp-content/plugins/wpfw_menus_management/styles/menus.css 1 katiemctigue.com
+/ads.txt 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-content/uploads/db.php 1 -
+/wp-content/uploads/2017/02/db.php 2 http://site.ru
+/adminer-3.3.3.php 1 -
+/adminer-3.2.2-en.php 1 -
+/00.php 1 http://site.ru
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-json/wp/v2/users 1 -
+/adminer.php 2 -
+/food.php 1 http://site.ru
+/mod_ariimageslidersa.php 1 http://site.ru
+/test/sql.php 1 -
+/wp-content/plugins/wordpress-seo/admin/views/tabs/social/debug.php 1 http://site.ru
+/adm.php 2 -
+/lib.php 1 http://site.ru
+/wp-checking.php 1 katiemctigue.com
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/adminer-3.0.1-en.php 1 -
+/wp-content/plugins/woo-thank-you-page-nextmove-lite/readme.txt 1 katiemctigue.com
+/portfolio/tbi-crms/%22mailto:Kaitlinmctigue@gmail.com 2 -
+/wp-content/uploads/2017/12/server.php 1 http://site.ru
+/dex.php 1 katiemctigue.com
+/2015/10/04/blog/ 1 http://katiemctigue.com/
+/wp-content/plugins/SwiftSecurity/Documentation/index.html 1 katiemctigue.com
+/customizer.php 2 http://site.ru
+/cool.php 1 http://site.ru
+/wp-content/themes/notio-wp/timthumb.php 2 -
+/myadmin.php 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 2 http://site.ru
+/content-post.php.suspected 2 http://site.ru
+/k.php 1 http://site.ru
+/adminer-3.0.0-en.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/adminer-4.1.0-en.php 1 -
+/wp-content/uploads/wp-wpphp.php 2 http://site.ru
+/wp-includes/images/hon2our.php 1 katiemctigue.com
+/.hg/dirstate 1 -
+/adminer-4.5.0-en.php 1 -
+/eladm.php 3 -
+/wp-system.php 4 http://site.ru
+/wp-content/plugins/minify-html-markups/minimal.php 2 http://site.ru
+/wp-content/themes/twentyfifteen/js/hfnrnd.php 1 http://site.ru
+/wp-includes/js/tinymce/plugins/media/update.php 1 http://site.ru
+/adminer-3.0.0.php 1 -
+/wp-content/plugins/arforms/js/filedrag/filedrag.js 1 katiemctigue.com
+/portfolio/dci-passport/%22mailto:Kaitlinmctigue@gmail.com 1 http://katiemctigue.com/portfolio/dci-passport/
+/product/contemporary-oak/%22mailto:Kaitlinmctigue@gmail.com 1 -
+/adminer-3.6.0-en.php 1 -
+/wp-includes/Text/Diff/Engine/cache.php 1 -
+/adminer-3.4.0-en.php 1 -
+/wp-content/endurance-page-cache/author/betcrooks/gheds.php 1 http://site.ru
+/adminer-4.0.0-en.php 1 -
+/wp-admin/includes/wp-cods.php 1 katiemctigue.com
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/wp-content/themes/Divi 1 http://site.ru
+/\"mailto:Kaitlinmctigue@gmail.com 4 -
+/%22mailto:Kaitlinmctigue@gmail.com 4 http://www.katiemctigue.com/
+/wp-admin/includes/class-wp-ms-remove-table.php 1 katiemctigue.com
+/wp-includes/js/js.php 1 katiemctigue.com
+/adminer-3.1.0-en.php 1 -
+/adminer-4.3.0.php 1 -
+/product/designer-sneakers/embed/%22mailto:Kaitlinmctigue@gmail.com 1 -
+/wp-apps.php 2 http://site.ru
+/.git/index 1 -
+/authorize.php 2 http://site.ru
+/portfolio/eagent-x2-trifold/%22mailto:Kaitlinmctigue@gmail.com 1 http://katiemctigue.com/portfolio/eagent-x2-trifold/
+/adminer-4.6.0-en.php 1 -
+/author/kmctigue/page/4/ 1 -
+/adminer-3.3.2-en.php 1 -
+/wordpress/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 http://site.ru
+/wp-content/plugins/szalog.php 1 katiemctigue.com
+/wp-admin/admin_info.php 2 http://site.ru
+/wp-content/plugins/revslider/admin/assets/imports/web-product-light-hero-3d/pouimeq.php 3 http://site.ru
+/wp-content/themes/konzept/style.css 1 http://katiemctigue.com/wp-content/themes/konzept/style.css
+/wp-custm.php 1 -
+/wp-content/systems.php 3 http://site.ru
+/adminer-3.4.0.php 1 -
+/wp-content/themes/sketch/404.php.suspected 1 http://site.ru
+/wp-content/plugins/user-photo/admin.css 1 -
+/ad.php 1 -
+/news.php 1 -
+/wp-content/plugins/wd-google-maps/readme.txt 1 -
+/wp-content/plugins/wp-symposium/server/php/QZQDJugpmoJSvn.php 1 -
+/wp-json/wp/v2/users/ 2 katiemctigue.com
+/wp-content/uploads/_input_1_test.php5 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 224
+143.95.230.23 469 469 64838 20180630214114
+178.137.165.32 114 114 256520 20180611075636
+13.57.51.26 19 19 337144 20180620103846
+82.80.249.249 14 69 12873667 20180618170746
+138.197.11.40 11 34 1079661 20180608231228
+71.182.194.16 9 96 50629100 20180614103329
+66.87.125.158 8 70 88042746 20180608160524
+77.111.246.19 8 105 62510340 20180614101449
+13.57.220.0 7 7 267477 20180620001302
+52.165.150.117 7 7 267477 20180629193804
+72.77.17.114 7 71 33140834 20180612164854
+74.118.192.130 6 6 152844 20180630145943
+99.203.129.84 5 54 18761803 20180616142652
+163.172.4.153 5 5 191055 20180621174758
+73.15.240.45 5 59 20797135 20180616120900
+35.1.63.240 5 55 32610846 20180608124253
+52.53.201.78 5 5 191055 20180630131408
+63.147.84.66 5 79 30090182 20180625004152
+12.16.117.2 5 60 34759444 20180618173433
+193.106.30.99 5 5 78317 20180624233142
+52.165.129.203 5 5 191055 20180618042526
+52.165.148.51 5 5 191055 20180628032901
+117.220.1.146 4 59 18721511 20180628150010
+182.156.252.230 4 63 18346483 20180611000707
+69.58.178.57 3 3 117713 20180609002101
+52.205.251.80 1 1 38750 20180612165013
+94.46.177.91 1 1 2853 20180627111007
+212.24.97.131 1 1 0 20180612103235
+12.231.157.9 0 1 12748 
+68.59.125.114 0 4 1275607 
+173.252.90.236 0 5 143025 
+69.171.225.49 1 1 38211 20180610080637
+162.243.69.215 1 1 1723 20180628150005
+188.240.208.26 1 1 38211 20180615071035
+95.181.179.220 2 4 78492 20180606190931
+173.252.88.11 1 5 104225 20180602101259
+206.180.165.147 1 1 38211 20180614113239
+170.245.65.42 0 1 1529519 
+38.131.146.33 1 1 32077 20180609020636
+178.211.170.74 2 2 76422 20180620092246
+138.197.104.6 1 1 38211 20180614052447
+138.197.64.69 1 19 386276 20180630140019
+35.231.239.211 2 2 76422 20180623150855
+204.79.180.18 0 1 1589 
+204.79.180.14 0 4 18027 
+204.79.180.23 0 2 46857 
+185.220.101.32 1 1 38211 20180621115317
+174.233.142.108 2 49 3813176 20180629023633
+52.23.219.61 1 1 38211 20180603224219
+46.42.165.128 3 39 1694309 20180626174358
+173.252.91.247 0 4 42677 
+113.173.167.118 1 1 3799 20180612042424
+178.117.122.89 0 1 12748 
+74.130.210.15 0 1 230056 
+204.79.180.22 0 1 1403 
+35.231.123.21 2 2 76422 20180617030657
+174.192.22.112 0 1 9954 
+82.80.249.143 0 7 12429487 
+14.186.20.170 1 1 3799 20180612175642
+210.213.66.212 2 59 3721424 20180606010649
+173.211.126.29 1 1 38211 20180620203239
+80.180.25.149 0 1 5881061 
+138.197.96.249 2 25 687935 20180618103829
+87.98.227.4 2 2 39273 20180605164515
+64.246.161.190 1 1 38211 20180617135816
+185.244.217.18 1 1 1115 20180604035233
+185.198.164.156 1 1 38211 20180603141214
+41.114.172.152 0 1 12748 
+113.167.212.191 1 1 3799 20180613074515
+204.79.180.16 0 3 217739 
+123.16.75.85 1 1 3799 20180612112216
+138.197.111.100 2 25 687935 20180625193933
+173.252.92.29 0 1 9565 
+177.81.181.138 1 43 3613804 20180608132345
+37.42.174.94 0 1 530534 
+52.165.166.139 3 3 114633 20180620054630
+14.187.57.207 1 1 3799 20180613054426
+204.79.180.2 0 3 113525 
+113.161.32.48 1 1 3799 20180613063830
+204.79.180.7 1 3 12236 20180610020929
+138.197.111.95 2 25 687935 20180603192633
+173.252.90.148 0 2 102699 
+35.190.154.210 2 2 76422 20180608055327
+174.225.6.83 0 1 530534 
+204.79.180.4 0 1 11870 
+204.79.180.21 1 4 536286 20180610020912
+18.233.98.91 1 1 38211 20180612101429
+122.160.61.179 0 1 12748 
+27.76.28.25 1 1 3799 20180613115302
+14.231.52.147 1 1 3799 20180613065338
+51.15.64.212 1 1 38211 20180614193529
+222.252.6.70 2 2 7598 20180612162900
+204.79.180.11 0 1 11585 
+27.76.95.173 1 1 3799 20180613044616
+191.96.84.123 1 1 38211 20180609020413
+14.162.170.203 1 1 3799 20180613002603
+96.239.75.95 3 51 3881977 20180627173247
+45.55.232.55 1 19 386276 20180603161129
+72.167.232.159 1 1 38211 20180619170650
+185.156.177.76 3 3 79275 20180610213308
+37.139.9.204 1 1 1 20180630092349
+35.237.22.246 2 2 76422 20180604003729
+204.79.180.6 0 4 362267 
+84.19.181.25 1 1 38211 20180601062650
+211.218.241.223 0 1 192686 
+199.36.221.178 3 3 79275 20180617034502
+159.65.24.22 1 1 38211 20180609222151
+104.156.245.181 1 1 38211 20180619200011
+69.84.207.250 0 6 2159449 
+172.58.153.67 2 47 4144687 20180621124204
+89.178.172.91 3 39 1694309 20180627033115
+159.203.81.93 1 1 38211 20180628150003
+97.74.24.199 1 1 38211 20180626081437
+171.234.205.250 1 1 3799 20180612153040
+99.203.11.154 0 1 757094 
+186.156.47.48 0 3 310823 
+204.79.180.3 0 3 50330 
+54.250.60.196 1 1 38211 20180602232303
+14.169.224.100 1 1 3799 20180613113801
+35.185.76.62 2 2 76422 20180611042536
+159.89.205.107 2 2 0 20180623174836
+27.79.157.233 1 1 3799 20180613062206
+14.162.130.138 1 1 3799 20180613093138
+172.58.145.72 3 51 3881977 20180610080606
+173.252.91.107 0 1 1403 
+46.188.32.25 3 39 1694309 20180620175255
+69.243.51.236 0 3 310823 
+24.18.156.161 3 67 6041936 20180628102558
+66.249.81.51 0 1 12748 
+191.96.63.65 1 1 38211 20180614070043
+54.196.254.243 1 1 38211 20180612183250
+66.240.192.138 1 1 38211 20180605190933
+123.17.151.191 1 1 3799 20180612110341
+14.162.152.145 1 1 3799 20180612190758
+204.79.180.15 0 1 895 
+45.227.254.241 1 1 38211 20180602141152
+189.101.67.196 2 47 3800194 20180611205922
+200.2.101.180 2 53 5968435 20180619111523
+216.81.94.73 0 1 32478 
+89.145.186.190 0 1 12748 
+80.93.187.145 2 2 76422 20180628094100
+14.162.139.4 1 1 3799 20180612182926
+171.255.251.93 1 1 3799 20180613010036
+139.81.163.3 1 1 38211 20180606222918
+171.242.67.189 1 1 3799 20180612072731
+71.220.231.16 2 51 3815231 20180619231824
+201.240.147.24 0 1 12748 
+123.16.234.99 1 1 3799 20180613070850
+107.152.232.224 1 1 38211 20180628015938
+159.203.101.95 1 19 386276 20180608125341
+140.82.52.83 1 1 38211 20180607042541
+146.185.223.212 2 2 41206 20180625110243
+54.242.33.230 1 1 1062 20180613084804
+173.252.92.210 0 3 71325 
+54.205.195.205 1 1 35484 20180617063456
+172.96.140.26 2 47 3800194 20180620001458
+188.166.239.76 1 1 38211 20180614190422
+24.127.247.182 0 1 12748 
+222.252.35.227 1 1 3799 20180612200725
+82.80.249.164 0 18 8031879 
+35.229.84.207 2 2 76422 20180601005257
+216.74.108.48 1 1 38211 20180628054630
+82.80.230.228 0 104 59808426 
+14.169.222.194 1 1 3799 20180613110249
+172.56.27.35 2 44 3786516 20180602100513
+116.97.165.66 1 1 3799 20180612172813
+185.223.165.11 1 1 38211 20180613233619
+113.178.75.198 1 1 3799 20180613030819
+185.220.101.34 1 1 38211 20180620014509
+35.173.132.94 1 1 38211 20180622154706
+54.147.219.236 1 1 38211 20180617054045
+86.85.124.24 0 1 230056 
+167.114.226.133 1 1 38211 20180614120826
+5.32.34.34 0 1 12748 
+52.42.208.43 1 1 38211 20180603053623
+54.211.103.29 2 37 1526909 20180617055710
+109.236.8.10 2 2 76422 20180601152447
+66.222.155.251 1 1 38211 20180606004752
+81.36.219.98 1 24 3607841 20180615030926
+177.21.15.122 1 1 38211 20180625004829
+107.6.150.243 1 1 38211 20180608124151
+116.96.83.150 1 1 3799 20180612154928
+79.175.186.114 0 1 230056 
+73.47.157.237 0 1 441105 
+201.97.153.81 1 36 1525654 20180611211229
+138.197.111.93 2 25 687935 20180609004729
+34.218.64.165 1 1 38211 20180618052335
+79.151.88.175 1 29 2360594 20180615030936
+34.217.78.50 1 1 38211 20180612101121
+196.47.64.42 1 1 0 20180612103517
+14.169.2.196 1 1 3799 20180613080054
+190.2.130.63 1 1 38211 20180609000521
+159.203.92.176 1 19 386276 20180626065556
+35.196.62.3 2 47 3800194 20180620215736
+159.121.202.140 2 67 4778308 20180621182711
+204.79.180.17 0 3 38923 
+51.15.43.205 1 1 38211 20180601211851
+138.197.111.178 1 1 38211 20180620060021
+149.202.72.198 1 1 38211 20180625012522
+123.16.234.139 1 1 3799 20180612165639
+91.247.38.43 2 2 76422 20180604142620
+35.196.44.176 2 2 76422 20180614032115
+204.79.180.10 0 1 1346 
+123.20.156.246 1 1 3799 20180613081717
+153.92.0.10 1 1 2853 20180614031906
+184.168.46.84 1 1 38211 20180626163804
+204.79.180.8 0 2 101955 
+18.237.34.152 1 1 38211 20180612210201
+138.197.7.17 1 19 386276 20180603182130
+82.80.249.214 1 1 38211 20180618170708
+107.77.70.80 0 1 230056 
+31.54.247.16 0 1 530534 
+88.99.63.132 1 1 38211 20180613151055
+45.33.72.115 1 1 38211 20180629134557
+201.7.143.73 0 1 12748 
+14.162.186.74 1 1 3799 20180612131327
+117.0.5.176 1 1 3799 20180613101120
+173.252.88.9 0 2 201347 
+14.184.234.82 1 1 3799 20180613083226
+14.186.163.54 1 1 3799 20180613104726
+54.183.213.47 2 37 1526909 20180620103830
+14.186.151.206 1 1 3799 20180612061234
+204.79.180.13 0 1 1734 
+13.57.243.248 2 2 40409 20180620103824
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 20 21 708653 15
+20180602 18 82 4577486 15
+20180603 26 85 1654697 21
+20180604 13 13 154030 12
+20180605 15 16 166725 13
+20180606 22 83 3902933 19
+20180607 16 22 2158387 14
+20180608 56 253 126137276 20
+20180609 28 51 1069118 22
+20180610 27 117 7690634 19
+20180611 139 283 24559812 19
+20180612 52 116 33470733 43
+20180613 42 43 457242 34
+20180614 45 232 114225502 22
+20180615 17 68 6045956 15
+20180616 19 122 39560037 10
+20180617 24 60 1883753 19
+20180618 39 301 128711710 14
+20180619 22 122 9862054 19
+20180620 57 222 12311148 26
+20180621 16 127 14882605 11
+20180622 16 16 78549 11
+20180623 24 24 115732 16
+20180624 15 15 77521 14
+20180625 27 127 31211365 17
+20180626 26 80 2309922 20
+20180627 37 179 9509982 19
+20180628 31 94 21214144 23
+20180629 23 71 5534849 20
+20180630 25 44 1000500 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 7
+1h+ 21
+30s-2mn 10
+15mn-30mn 7
+0s-30s 500
+2mn-5mn 2
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/wp-cron.php 408 2130 349 326
+/ 210 6574241 157 134
+/wp-login.php 91 340175 36 38
+/xmlrpc.php 61 24461 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/layout.html 61 62708 1 24
+/resume/ 21 700010 2 6
+/aboutme/ 16 462547 2 2
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 12 862752 0 5
+/contact/ 7 192462 1 2
+/portfolio/oregon-cch/ 6 177301 1 1
+/portfolio/diverse-computing-rebranding/ 6 216753 1 2
+/portfolio/women-drowning-photos/ 5 222440 0 1
+/wp-content/plugins/agp-font-awesome-collection/vendor/agp/agp-fontawesome/fonts/fontawesome-webfont.woff2 5 385800 0 2
+/portfolio/tbi-crms/ 5 226106 0 1
+/portfolio/eagent-x2-trifold/ 4 138549 1 1
+/portfolio/dci-passport/ 3 122252 0 1
+/feed/ 3 3186 2 3
+/wp-content/plugins/agp-font-awesome-collection/vendor/agp/agp-fontawesome/fonts/fontawesome-webfont.eot 3 497226 0 3
+/wp-json/oembed/1.0/embed 1 2198 0 1
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-json/ 1 1723 1 1
+/wp-content/index.php 1 0 1 1
+/wp-admin/admin-ajax.php 1 1 1 1
+/aboutme/feed/ 1 0 0 0
+/contact/feed/ 1 0 0 0
+/wp-admin/install.php 1 1115 1 1
+/feed/rdf/ 1 833 1 1
+/wp-content/plugins/index.php 1 0 1 1
+END_SIDER

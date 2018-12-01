@@ -1,0 +1,139 @@
+h1{
+    color: #ffffff;
+    text-aign: center;
+    letter-spacing: 30px;
+    font-size: 150%;
+}
+h2{
+    color: #ffffff;
+    text-aign: center;
+    letter-spacing: 60px;
+    font-size: 300%;
+}
+h3{
+    color: #ffffff;
+    text-aign: center;
+    letter-spacing: 30px;
+    font-size: 300%;
+}
+h4{
+    color: #000;
+    text-aign: center;
+    letter-spacing: 15px;
+    font-size: 120%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+a:link {
+	color: #ffffff;
+}
+
+
+#splash{
+    background: url(images/headshotb.jpg) no-repeat center bottom fixed;
+    height: 1000px;
+    background-size: cover;
+}
+
+#resume{
+    background-color: #FFFAD5;
+    height: 1550px;
+    padding: 60px;
+    
+}
+
+#design{
+    background-color: #DB9E36;
+    height: 1000px;
+}
+
+#photo{
+    background: url(images/sierrablue.jpg) no-repeat center bottom fixed;
+    height: 1000px;
+    background-size: cover;
+}
+
+
+#art{
+    background: url(images/dragon.jpg) no-repeat center top fixed;
+    height: 1000px;
+    background-size: cover;
+}
+
+
+#writing{
+    background-color: #105B63;
+    height: 1000px;
+}
+
+
+#footer{
+    background-color: #FFFAD5;
+    height: 1000px;
+}
+
+/* ---------------- CONTAINER STYLES ----------------- */
+/* Containers are used to keep the page content within bounds centered in the browser window. */
+.container {
+  width: 960px; /* static width container always stays at this width no matter what the window size */
+  margin: 0 auto;
+  overflow: hidden;
+}
+.container2 {
+    padding-top: 300px; /* top padding provides space for nav bar, bottom padding for asthetics */	
+	color: #fff;
+    text-align: center;
+    
+}
+
+/* ----------------- Intro STYLES -------------------*/
+
+#intro {
+    padding-top: 160px; /* top padding provides space for nav bar, bottom padding for asthetics */	
+	color: #fff;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+/* ----------------- NAVIGATION BAR STYLES -------------------*/ 
+
+#navbar{
+	position: fixed; /* navbar should always be shown even when page is scrolled */
+	top: 0;
+	width: 100%;
+	height: 54px;
+    color: #ffffff;
+	background-color: rgba(255, 255, 255, 0.2); 
+}	
+/* horizontal menu bars are typically created using a styled unordered list. Here's how! */
+ul#menu {
+	list-style: none; /* eliminates bullets */
+	/* adjust padding top to adjust nav bar vertical position */
+	padding-top: 0px;
+} 
+ul#menu li {
+	float: left; /* changes list from vertical to horizontal */
+	padding-bottom: 20px;
+} 
+ul#menu li a.button {
+	font-size: 16px;
+    text-align: center;
+	text-decoration: none;
+	/* this padding defines the size of the buttons */
+	padding: 20px 30px 20px 30px;
+    color: #ffffff;
+}
+/* change button color when mouse hovers over */
+ul#menu li a.button:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+}  

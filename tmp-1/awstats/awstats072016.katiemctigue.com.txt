@@ -1,0 +1,862 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201607 will be lost/reset.
+# Last config file used to build this data file was /home/kmctigue/tmp/awstats/awstats.katiemctigue.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 15331               
+POS_DAY 18774               
+POS_DOMAIN 3585                
+POS_LOGIN 4044                
+POS_ROBOT 4199                
+POS_WORMS 4744                
+POS_EMAILSENDER 4875                
+POS_EMAILRECEIVER 5018                
+POS_SESSION 19636               
+POS_SIDER 19846               
+POS_FILETYPES 5153                
+POS_DOWNLOADS 5554                
+POS_OS 5881                
+POS_BROWSER 6178                
+POS_SCREENSIZE 7719                
+POS_UNKNOWNREFERER 7793                
+POS_UNKNOWNREFERERBROWSER 8430                
+POS_ORIGIN 8693                
+POS_SEREFERRALS 8834                
+POS_PAGEREFS 8990                
+POS_SEARCHWORDS 9339                
+POS_KEYWORDS 9491                
+POS_MISC 2355                
+POS_ERRORS 9550                
+POS_CLUSTER 3900                
+POS_SIDER_404 9706                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160801001104 33 5695 10681603015149
+FirstTime 20160701000936
+LastTime 20160731203529
+LastUpdate 20160801023810 33 0 32 0 0
+TotalVisits 389                 
+TotalUnique 68                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 92                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 19 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 18 315345 33 56 7215606
+1 21 21 8935 39 59 17791125
+2 24 24 4901 39 61 15220915
+3 18 22 1063783 33 56 1842122
+4 41 42 579336 36 48 3917880
+5 52 310 39162360 38 62 19341451
+6 41 131 23921880 56 95 8444520
+7 60 62 392225 55 76 1071512
+8 157 158 541147 157 186 9094293
+9 113 190 19658311 98 141 8567483
+10 32 157 15929586 35 126 5412249
+11 24 26 416048 40 66 14180885
+12 788 926 197051211 39 93 5147413
+13 21 22 501165 39 47 1560718
+14 49 51 2793470 35 84 1552476
+15 180 268 62968146 56 79 19022014
+16 651 792 160509577 30 56 11006761
+17 51 51 436209 43 117 5660869
+18 21 70 3830953 26 30 414803
+19 35 86 4225958 52 130 16901543
+20 40 131 18787569 33 74 18778567
+21 976 1097 176636852 162 184 16274242
+22 158 159 31193750 28 44 1178150
+23 18 18 3368 30 67 2806105
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+fr 2251 2252 462428734
+us 1262 2443 270847052
+ua 22 22 1721524
+ca 16 16 435040
+ru 15 17 17912551
+de 7 55 3793035
+gb 5 11 2014149
+nl 4 4 34269
+vn 1 1 1684
+ro 1 1 1668
+cn 1 1 1668
+ch 1 1 31974
+th 0 2 493950
+in 0 2 655892
+pl 0 3 310823
+bg 0 1 248072
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 448 26011969 20160731205509 31
+bot[\s_+:,\.\;\/\\-] 324 88365904 20160731112958 74
+bingpreview 122 23682654 20160730175633 0
+[\s_+:,\.\;\/\\-]bot 109 36712797 20160726111514 0
+spider 102 9100096 20160731140952 0
+unknown 17 21958 20160729211501 17
+no_user_agent 13 61397 20160731154703 1
+googlebot\-image 7 17053247 20160729175506 0
+crawl 5 89657 20160709233426 2
+msnbot\-media 1 33336 20160716224617 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+png 238 71441151 0 0
+svg 2 11373 0 0
+html 594 8758635 0 0
+js 539 13395523 0 0
+woff2 8 515712 0 0
+eot 1 68875 0 0
+pdf 1 1611681 0 0
+mp4 1 17608855 0 0
+txt 6 79279 0 0
+css 242 20095196 0 0
+Unknown 2 18431 0 0
+jpg 178 156223914 0 0
+ttf 1 138204 0 0
+gif 39 4898929 0 0
+woff 15 995572 0 0
+po 1 4160 0 0
+php 2963 465065550 0 0
+xml 1 1045 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/wp-content/uploads/2015/11/Resume_K_McTigue_2015.pdf 5 0 8058405
+/wp-content/plugins/contact-form-7/license.txt 3 0 3105
+/license.txt 2 0 39860
+/wp-content/uploads/2016/01/Interactive_Planner_CLIPCHAMP_keep.mp4 2 0 35217710
+/wp-content/plugins/woocommerce/license.txt 1 0 36314
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+winlong 5 4
+ios_iphone 248 25
+linux 131 35
+linuxubuntu 10 8
+win8 4 4
+blackberry 1 1
+macosx7 3 2
+winnt 70 65
+win8.1 116 36
+ios_ipad 57 4
+linuxandroid 235 55
+macosx 291 26
+Unknown 1004 886
+win7 2586 2369
+winunknown 21 20
+winxp 50 46
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 75
+chrome10.0.613.0 1 1
+opera36.0.2130.36 10 10
+chrome17.0.1025.133 1 1
+chrome44.0.2403.125 1 1
+firefox28.0 52 4
+chrome40.0.2214.115 2 2
+chrome38.0.2125.104 8 8
+chrome14.0.808.0 1 0
+chrome47.0.2526.111 10 10
+chrome48.0.2564.103 1 1
+safari8.0 7 3
+chrome11.0.696.34 1 1
+firefox45.0 18 18
+chrome24.0.1290.1 1 1
+chrome49.0.2623.105 12 11
+chrome12.0.742.91 1 1
+chrome52.0.2743.82 80 5
+firefox3.6 1 1
+chrome22.0.1229.79 1 1
+chrome50.0.2661.87 22 22
+firefox5.0 7 7
+firefox38.0 4 4
+msie10.0 64 5
+chrome37.0.2062.120 1 1
+firefox24.0 2 2
+chrome51.0.2704.81 106 14
+firefox11.0 3 2
+firefox25.0 1 1
+firefox14.0.1 10 10
+chrome37.0.2062.94 3 1
+Unknown 981 865
+safari9.0 207 18
+firefox3.6.3 2 2
+chrome36.0.1985.143 2 2
+chrome39.0.2146.0 3 3
+chrome49.0.2623.110 8 8
+chrome49.0.2623.112 29 28
+chrome51.0.2704.103 345 33
+safari9.1.2 1 0
+chrome28.0.1500.71 1 1
+firefox40.0 4 4
+blackberry 1 1
+chrome45.0.2454.93 1 1
+chrome51.0.2704.106 7 0
+chrome50.0.2661.89 97 10
+chrome49.0.2623.108 8 8
+msie8.0 3 3
+firefox3.5.0 1 1
+chrome12.0.702.0 1 1
+opera12.17 12 12
+mozilla 13 11
+android 19 19
+msie11.0 24 24
+chrome46.0.2486.0 17 17
+firefox40.1 3 3
+safari 142 11
+firefox44.0 1 1
+chrome34.0.1847.137 2 2
+chrome43.0.2357.134 1 1
+chrome32.0.1700.76 2 1
+msie7.0 1 1
+opera10.70 1 0
+opera11.10 1 0
+safari9.1.1 66 7
+chrome31.0.1650.63 10 10
+firefox47.0 55 4
+chrome10.0.648.133 1 0
+firefox43.0 18 18
+chrome31.0.1650.57 3 3
+chrome50.0.2661.75 18 18
+firefox41.0 20 20
+msie9.0 2245 2245
+lg\- 10 10
+chrome42.0.2311.90 1 0
+msie6.0 12 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WordPress/4.3.5;_http://katiemctigue.com 20160731203529
+facebookexternalhit/1.1 20160704162440
+Mozilla/5.0_(compatible;_Dataprovider/6.92;__https://www.dataprovider.com/) 20160704043028
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20160718214933
+panscient.com 20160729213105
+AHC/2.0 20160721004755
+Go-http-client/1.1 20160727045322
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20160718214931
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_pt-BR;_LG-D100)_U2/1.0.0_UCBrowser/10.7.2.757_U2/1.0.0_Mobile 20160715092341
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.3.5;_http://katiemctigue.com 20160731203529
+AHC/2.0 20160721004755
+Go-http-client/1.1 20160727045322
+facebookexternalhit/1.1 20160704162440
+panscient.com 20160729213105
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3480 3608
+From1 0 0
+From2 9 30
+From3 5 8
+From4 92 1186
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 9 30
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://www.linkedin.com 1 1
+http://hvd-store.com 1 1
+http://toastandjelly.com 1 1
+http://l.facebook.com/lsr.php 1 1
+http://l.instagram.com 1 1
+http://s.codepen.io/kaitlinmctigue/fullcpgrid/eZxwNM 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+406 16 55300
+500 45 0
+302 3 0
+206 2 138189
+404 678 11077030
+405 4 168
+301 122 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 119
+/wp-content/plugins/simple-lightbox/client/js/dev/text/css 1 -
+/get-size/get-size 1 -
+/resume/www.thomasvillearts.org/thom-magazine/ 3 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 1 katiemctigue.com
+/wp-content/plugins/resume-submissions-job-postings/installer.php 2 -
+/.min.js 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 2 -
+/7r/ 1 -
+/wp-content/plugins/user-meta/readme.txt 2 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 2 -
+/xmlrpc.php 279 -
+/apple-touch-icon-120x120.png 1 -
+/tmp/sfx.php 1 -
+/extensions/ 1 -
+/wp-content/plugins/simple-lightbox/client/js/prod/text/css 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 2 -
+/wp-content/themes/notio-wp/assets/js/vendor/jquery-bridget/jquery.bridget 1 -
+/Version/ 1 -
+/wp-content/plugins/BirdsRio.php 1 http://www.googlebot.com/bot.html
+/BirdsRio.php 2 http://www.googlebot.com/bot.html
+/**/*.php 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/68/ 1 -
+/1q/6c 1 -
+/outlayer/outlayer 1 -
+/get-style-property/get-style-property 1 -
+/uploadify/uploadify.php 1 http://katiemctigue.com/uploadify/uploadify.php
+/wp-content/themes/notio-wp/assets/js/vendor/isotope/js/layout-modes/fit-rows 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 2 -
+/wp-admin/admin-ajax.php 1 http://katiemctigue.com/wp-admin/admin-ajax.php
+/wp-content/plugins/font-uploader/font-uploader-free.php 2 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 2 -
+/home-masonry-style-2/ 3 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 2 -
+/grunt/*.js 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 2 -
+/wp-content/plugins/contact-form-7/readme.txt 1 -
+/admin/ 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 2 -
+/wp-content/themes/notio-wp/assets/js/vendor/7o/ 1 -
+/),g=(d.offsetHeight-a.offsetHeight)/2-i(d, 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/isotope/js/layout-mode 1 -
+/wp-content/uploads/BirdsRio.php 1 http://www.googlebot.com/bot.html
+/wp-content/plugins/custom-content-type-manager/index.html 2 -
+/Gruntfile.js 1 -
+/!==b.className,k.style=/top/.test(d.getAttribute( 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/get-style-property/get-style-property 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 2 -
+/wp-content/themes/notio-wp/assets/js/vendor/5f/ 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/isotope/js/layout-modes/masonry 1 -
+/*.php 1 -
+/wp-login.php 240 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/text/xml 1 -
+/wp-content/plugins/wp-filemanager/fm.php 2 -
+/wp-content/plugins/woocommerce/readme.txt 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/1q/7b 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 2 -
+/wp-content/plugins/simple-lightbox/**/*.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 2 -
+/isotope/js/layout-mode 1 -
+/wp-content/plugins/simple-lightbox/readme.txt 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 2 -
+/phpmyadmin/ 2 -
+/sharrre.php 1 -
+/wp-content/plugins/form-lightbox/colorbox/style-1/colorbox.css 1 -
+/wp-includes/js/jquery/text/xml 1 -
+/wp-content/plugins/wp-property/action_hooks.php 2 -
+/wp-content/themes/notio-wp/assets/js/vendor/sharrre.php 1 -
+/portfolio/feed/ 1 -
+/wp-content/plugins/revslider/temp/update_extract/BirdsRio.php 1 http://www.googlebot.com/bot.html
+/wp-content/plugins/auto-attachments/a-a.css 2 -
+/wp-content/plugins/user-photo/admin.css 2 -
+/TweenLite.js 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/get-size/get-size 1 -
+/themes/ 1 -
+/wp-includes/js/jquery/!==b.className,k.style=/top/.test(d.getAttribute( 1 -
+/wp-content/plugins/fcchat/default.png 2 -
+/wp-content/plugins/wpmarketplace/readme.txt 4 -
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/),g=(d.offsetHeight-a.offsetHeight)/2-i(d, 1 -
+/wp-content/themes/notio-wp/assets/js/layout-mode 1 -
+/.git/config 2 -
+/68/ 1 -
+/administrator/ 1 -
+/masonry/masonry 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/7r/ 1 -
+/wp-content/themes/twentyeleven/download.php 2 -
+/wp-content/themes/notio-wp/assets/js/vendor/outlayer/outlayer 1 -
+/1q/7b 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/isotope/js/layout-modes/vertical 1 -
+/wp-content/plugins/user-avatar/readme.txt 2 -
+/wp-content/plugins/simple-lightbox/grunt/Gruntfile.js 1 -
+/isotope/js/layout-modes/masonry 1 -
+/7o/ 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/in/share 1 -
+/in/share 1 -
+/).match(/5./gi) 1 -
+/!node_modules/**/*.php 1 -
+/wp-content/plugins/simple-lightbox/*.php 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 2 -
+/wp-content/themes/notio-wp/assets/js/plugins/text/css 1 -
+/text/css 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/1q/6c 1 -
+/wp-content/plugins/simple-lightbox/grunt/grunt/*.js 1 -
+/apple-touch-icon.png 2 -
+/isotope/js/layout-modes/vertical 1 -
+/5f/ 1 -
+/wp-content/plugins/revslider/public/assets/js/ 1 -
+/wp-content/plugins/front-end-upload/destination.php 4 -
+/wp-content/plugins/simple-lightbox/!node_modules/**/*.php 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 2 -
+/layout-mode 1 -
+/isotope/js/layout-modes/fit-rows 1 -
+/themepunch.revolution.min.js 1 -
+/wp-content/themes/notio-wp/assets/js/vendor/masonry/masonry 1 -
+/license.php 2 -
+/wp-content/plugins/simple-lightbox/grunt/themes/ 1 -
+/ 2 -
+/wp-content/plugins/wp-image-news-slider/functions.php 2 -
+/jquery-bridget/jquery.bridget 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 92
+195.154.240.246 746 746 154121931 20160705125905
+195.154.237.108 746 746 154121931 20160728221150
+195.154.241.153 746 746 154121931 20160723164524
+198.252.65.4 538 538 165582 20160731203529
+72.76.221.220 322 438 7605839 20160729213105
+66.147.240.157 259 259 975897 20160715093241
+178.137.93.24 20 20 1715740 20160716143930
+73.42.44.239 13 103 17973001 20160726202329
+167.114.174.95 12 12 367757 20160704043029
+68.84.21.197 12 90 22110678 20160727062305
+69.58.178.58 11 11 419889 20160703173247
+64.134.132.59 10 144 19146826 20160727101516
+66.191.216.91 8 89 19345608 20160723050601
+12.23.252.2 8 90 35292600 20160713155333
+188.143.232.43 8 9 17869520 20160723165156
+144.174.210.65 7 83 19087319 20160720095831
+66.170.179.253 7 82 9465392 20160727060517
+69.85.212.146 7 84 20609342 20160721122941
+208.163.137.79 7 66 21376429 20160704124637
+70.192.16.112 6 42 5844846 20160707165050
+62.210.142.53 6 6 19908 20160703181608
+158.69.229.134 4 4 67283 20160708202648
+70.209.17.139 4 54 4179973 20160729193722
+45.32.130.173 4 4 67284 20160726141244
+136.243.67.139 4 52 3788031 20160712184928
+86.126.98.158 1 1 1668 20160727045322
+78.130.149.38 0 1 248072 
+176.31.39.23 2 2 3352 20160723092637
+166.170.0.22 0 2 237713 
+89.69.63.76 0 3 310823 
+184.88.180.79 0 1 574859 
+62.210.88.57 1 1 1668 20160726153048
+67.161.70.231 0 1 739054 
+54.161.223.211 1 1 1668 20160701084041
+67.217.35.167 3 51 3860620 20160703100555
+54.204.20.250 0 1 14281787 
+99.44.182.48 0 1 574859 
+195.154.146.225 2 2 3336 20160726165541
+5.62.154.36 1 1 1668 20160709083433
+54.152.64.207 1 1 2892 20160701140722
+176.9.98.12 1 1 1668 20160723045954
+68.1.52.16 0 1 54846 
+92.241.245.126 2 2 3336 20160711172937
+5.231.50.56 1 1 1668 20160706123446
+79.64.73.94 0 1 355034 
+70.209.61.212 1 3 226596 20160729152547
+94.158.37.49 1 1 2892 20160708102133
+54.81.67.97 1 2 4394 20160713034510
+173.252.90.166 1 1 1668 20160704162440
+66.220.145.244 1 3 226596 20160704162445
+70.209.53.121 3 7 454860 20160731090845
+96.226.204.240 0 1 739054 
+130.164.62.224 0 1 355034 
+67.160.214.46 0 1 2929653 
+163.172.34.17 1 1 1668 20160726123518
+213.205.194.66 0 1 574859 
+213.239.205.118 1 1 1668 20160708072332
+119.46.230.6 0 2 493950 
+86.146.195.41 0 2 1036056 
+217.128.213.47 2 3 34677 20160712195626
+188.143.232.11 1 1 1675 20160725202456
+62.212.73.49 1 1 1668 20160719220154
+69.197.163.242 1 1 1675 20160701020702
+188.143.232.41 1 1 1675 20160723211643
+94.125.95.28 2 3 34677 20160728060729
+98.139.14.249 2 2 0 20160721004755
+109.201.152.14 3 3 32601 20160729134140
+173.208.175.130 0 1 1392 
+54.144.206.217 1 1 1668 20160729081807
+43.249.227.10 0 1 196580 
+73.19.148.120 4 54 4017340 20160704162400
+54.221.198.105 0 1 14281787 
+54.197.0.121 2 2 33640 20160722034845
+98.217.42.178 0 1 248072 
+98.139.14.250 1 1 0 20160720211807
+108.61.123.68 1 1 1668 20160720080236
+97.40.0.131 4 55 4213858 20160707164629
+94.158.38.49 1 1 2892 20160708062656
+162.213.147.248 0 1 29527 
+69.117.245.139 4 56 4123184 20160714052922
+54.85.64.228 2 2 5784 20160706031123
+66.249.88.3 0 1 527168 
+104.33.190.80 0 1 14281787 
+176.10.98.138 1 1 31974 20160716151041
+54.81.204.150 1 1 1668 20160713034409
+5.149.255.126 4 6 46532 20160711085336
+27.74.137.94 1 1 1684 20160730000750
+216.212.239.226 0 1 66225 
+122.180.215.117 0 1 459312 
+218.241.108.158 1 1 1668 20160701000936
+54.235.237.135 2 2 33642 20160714052505
+69.197.182.235 2 2 44309 20160706215753
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160701 24 25 546062 15
+20160702 8 8 32045 7
+20160703 40 88 4313201 13
+20160704 43 155 26245840 13
+20160705 762 763 154697889 13
+20160706 31 34 533298 19
+20160707 46 135 10341169 15
+20160708 26 27 96010 20
+20160709 29 30 584434 15
+20160710 25 25 37825 16
+20160711 22 24 499413 17
+20160712 28 77 3831003 13
+20160713 22 106 35875648 11
+20160714 18 70 4160938 9
+20160715 269 270 1331002 10
+20160716 28 28 1748884 8
+20160717 15 16 71436 10
+20160718 13 16 42849164 10
+20160719 16 16 5851 11
+20160720 25 101 19094198 11
+20160721 19 96 20614165 10
+20160722 7 8 2963293 6
+20160723 787 870 192091483 18
+20160724 14 14 2127 12
+20160725 8 12 1276614 7
+20160726 35 127 19112931 15
+20160727 46 337 51074237 12
+20160728 782 784 154368750 12
+20160729 371 541 12301100 17
+20160730 13 15 228351 12
+20160731 14 14 3724 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 7
+30mn-1h 15
+1h+ 32
+5mn-15mn 5
+30s-2mn 13
+0s-30s 309
+15mn-30mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 228
+/xmlrpc.php 2190 463816688 1 4
+/wp-cron.php 379 2130 300 253
+/wp-login.php 332 1246730 7 7
+/wp-content/plugins/simple-lightbox/themes/baseline/layout.html 160 164480 6 53
+/ 103 1253654 58 51
+/portfolio/eagent-2/ 25 565672 5 2
+/resume/ 13 552801 3 3
+/portfolio/dci-conference-collateral/ 9 231462 0 1
+/contact/ 9 158868 2 4
+/portfolio/fsu-planner/ 9 372935 2 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.woff2 8 515712 0 0
+/aboutme/ 8 234808 0 0
+/shop-2/ 7 267653 0 0
+/2014/06/28/soccer-and-fashion-play-ball/ 6 210985 0 0
+/wp-content/themes/notio-wp/assets/js/ 6 3552 0 0
+/product/board/ 6 202920 0 0
+/wp-content/plugins/revslider/public/assets/js/ 6 0 0 0
+/wp-includes/js/jquery/ 6 8178 0 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.woff 6 487704 0 0
+/portfolio/women-drowning-photos/ 5 166810 1 1
+/portfolio/tcc-faculty/ 5 154264 0 1
+/shop-2/page/2/ 5 171805 0 0
+/2014/06/28/inside-trailer/ 5 165342 0 0
+/wp-content/plugins/contact-form-7/includes/js/ 5 2725 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff 5 327260 0 2
+/wp-content/plugins/simple-lightbox/functions.php 1 0 0 0
+/2014/06/21/welcome-to-doha/ 1 27618 0 0
+/portfolio/nesting/ 4 121108 0 0
+/2015/10/04/blog/ 1 31424 0 0
+/2014/06/21/takkt-nachhaltigkeitsbericht-2014/ 2 58049 0 0
+/wp-content/plugins/simple-lightbox/template-tags/ui/js/ 1 434 0 0
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-content/plugins/simple-lightbox/themes/default/js/dev/ 1 413 0 0
+/2014/09/11/dont-limit-yourself/ 1 26974 0 0
+/product/mavic-leather-headphones/ 1 33522 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/js/dev/ 1 416 0 0
+/wp-content/plugins/simple-lightbox/template-tags/item/js/prod/ 1 431 0 0
+/product/shelf-accessory/ 1 33535 0 0
+/wp-content/plugins/simple-lightbox/client/js/ 1 404 0 0
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/ 1 432 0 0
+/product-category/clothing/ 3 89885 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/css/ 1 407 0 0
+/wp-includes/version.php 1 0 0 0
+/wp-content/plugins/contact-form-7/admin/css/ 1 430 0 0
+/wp-content/themes/notio-wp/assets/img/dividers/ 1 442 0 0
+/wp-content/themes/notio-wp/assets/img/ 1 1462 0 0
+/wp-content/plugins/simple-lightbox/content-handlers/image/js/dev/ 1 451 0 0
+/wp-content/plugins/contact-form-7/ 1 763 0 0
+/feed/ 3 5019 0 0
+/wp-content/plugins/simple-lightbox/template-tags/item/js/ 1 440 0 0
+/product/roche-boxing/ 1 39521 0 0
+/wp-includes/author-template.php 1 0 0 0
+/wp-includes/cron.php 1 0 0 0
+/wp-includes/atomlib.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/default/sass/ 1 408 0 0
+/wp-content/themes/notio-wp/assets/js/plugins/ 1 491 0 0
+/product-tag/subscription/ 1 23207 0 0
+/wp-includes/class-wp-customize-manager.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/client/css/ 1 420 0 0
+/wp-content/plugins/contact-form-7/includes/submission.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/functions.php 1 0 0 0
+/wp-includes/js/ 1 5480 0 0
+/wp-includes/class-wp-customize-panel.php 1 0 0 0
+/wp-content/plugins/contact-form-7/admin/edit-contact-form.php 1 2 0 0
+/2015/10/04/hello-world/ 2 53730 0 0
+/wp-includes/class-http.php 1 0 0 0
+/2014/10/02/a-mind-needs-books-as-a-sword-needs-a-whetstone/ 4 131897 0 0
+/wp-content/plugins/js_composer/assets/css/lib/vc-entypo/fonts/vc_entypo.woff 4 180608 0 2
+/product/charlies/ 1 33660 0 0
+/blog/ 1 31020 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/ 3 1449 0 0
+/product-tag/deer/ 2 46665 0 0
+/product/iron-ball/ 3 99920 0 0
+/wp-includes/cache.php 1 0 0 0
+/author/kmctigue/ 4 64428 1 2
+/wp-includes/class-wp-walker.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/ 1 445 0 0
+/wp-includes/feed.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/client/sass/ 1 426 0 0
+/wp-includes/l10n.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/black/sass/ 1 402 0 0
+/wp-content/plugins/simple-lightbox/template-tags/ui/js/dev/ 1 419 0 0
+/2014/06/19/young-beautiful/ 1 27759 0 0
+/wp-content/plugins/simple-lightbox/themes/default/ 1 486 0 0
+/2014/06/28/special-picks-for-june/ 1 31991 0 0
+/wp-includes/pluggable-deprecated.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/ 1 1125 0 0
+/wp-includes/class-wp-customize-nav-menus.php 1 0 0 0
+/product/terre-dhermes/ 3 101231 0 0
+/wp-includes/kses.php 1 0 0 0
+/2014/06/19/significant-moments-in-english-football/ 1 27911 0 0
+/wp-content/themes/notio-wp/assets/vc/ 1 368 0 0
+/wp-includes/session.php 1 0 0 0
+/wp-content/themes/notio-wp/assets/js/vendor/ 3 3597 0 0
+/product-tag/board/ 1 23363 0 0
+/wp-includes/wp-db.php 1 0 0 0
+/wp-content/themes/notio-wp/assets/sass/ 1 1128 0 0
+/wp-content/plugins/simple-lightbox/themes/default/css/ 1 404 0 0
+/2014/06/27/strawberries-on-the-table/ 2 59179 0 0
+/wp-content/plugins/simple-lightbox/grunt/ 1 535 0 0
+/wp-content/plugins/contact-form-7/includes/integration.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/pipe.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/ 1 1132 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/js/prod/ 1 418 0 0
+/2014/10/02/spend-this-sunday-at-your-home/ 3 111431 0 0
+/product/beige/ 1 33574 0 0
+/wp-includes/canonical.php 1 0 0 0
+/product-category/decor/ 3 83888 0 0
+/product/contemporary-oak/ 1 34853 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/js/ 1 431 0 0
+/blog/page/4/ 1 26851 0 0
+/2014/06/23/santa-monica-beach/ 1 27267 0 0
+/wp-includes/locale.php 1 0 0 0
+/wp-content/plugins/contact-form-7/languages/ 1 4856 0 0
+/wp-includes/shortcodes.php 1 0 0 0
+/author/kmctigue/page/3/ 1 31236 0 0
+/portfolio/coastal/ 4 182036 0 1
+/2014/09/13/image-post/ 3 88487 0 0
+/product/strawberry/ 1 34347 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/images/ 1 417 0 0
+/wp-content/plugins/simple-lightbox/includes/ 1 1987 0 0
+/2014/09/11/video-post-format/ 1 29710 0 0
+/product/designer-sneakers/ 3 99770 0 0
+/author/kmctigue/page/4/ 1 26710 0 0
+/wp-includes/taxonomy.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/client/ 1 423 0 0
+/wp-content/themes/notio-wp/assets/css/ 1 608 0 0
+/product/desk-chair/ 1 34194 0 0
+/wp-content/themes/notio-wp/assets/img/admin/ 1 994 0 0
+/2014/10/02/brume-cailloux-et-metaphysique/ 1 26865 0 0
+/wp-content/plugins/simple-lightbox/COPYING 1 18431 0 0
+/readme.html 3 22080 3 0
+/product/axe-on-a-tree-bottom/ 1 40901 0 0
+/wp-includes/option.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/css/ 1 439 0 0
+/wp-content/plugins/contact-form-7/admin/includes/editor.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/l10n/simple-lightbox-tr_TR.po 1 4160 0 0
+/product/handcrafted-watch/ 1 34217 0 0
+/portfolio/dci-passport/ 4 227294 0 1
+/product/designer-chair/ 1 34750 0 0
+/wp-content/plugins/woocommerce/woocommerce.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/includes/class.base.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/content-handlers/image/js/prod/ 1 453 0 0
+/wp-includes/load.php 1 0 0 0
+/wp-content/plugins/woocommerce/assets/js/ 1 982 0 0
+/wp-includes/rewrite.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/ 1 536 0 0
+/wp-content/plugins/contact-form-7/includes/formatting.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/default/js/prod/ 1 415 0 0
+/wp-content/plugins/contact-form-7/admin/ 1 578 0 0
+/wp-includes/plugin.php 1 0 0 0
+/cart-2/ 1 59232 0 0
+/product/gold-spotted-slippers/ 1 33153 0 0
+/wp-content/plugins/simple-lightbox/themes/black/images/ 1 508 0 0
+/wp-content/plugins/simple-lightbox/themes/black/ 1 450 0 0
+/wp-content/plugins/simple-lightbox/template-tags/ui/ 1 387 0 0
+/product-tag/box/ 2 46553 0 0
+/wp-includes/capabilities.php 1 0 0 0
+/wp-content/plugins/contact-form-7/uninstall.php 1 0 0 0
+/product-tag/downloadable/ 1 23259 0 0
+/wp-includes/widgets.php 1 0 0 0
+/wp-includes/category.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/validation.php 1 0 0 0
+/wp-includes/date.php 1 0 0 0
+/wp-includes/theme.php 1 0 0 0
+/wp-content/plugins/ 2 0 0 0
+/wp-includes/bookmark.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/.gitignore 1 0 0 0
+/wp-includes/formatting.php 1 0 0 0
+/2014/06/28/the-queen-of-scream/ 2 61576 0 0
+/portfolio/seo-ace-website/ 4 170564 0 1
+/wp-includes/nav-menu.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/client/js/prod/ 3 1479 0 0
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/ 1 400 0 0
+/product-tag/chair/ 1 23329 0 0
+/wp-content/plugins/contact-form-7/includes/l10n.php 1 0 0 0
+/wp-includes/http.php 1 0 0 0
+/wp-includes/ 1 7318 0 0
+/product-category/furniture/ 3 91344 0 0
+/wp-content/plugins/simple-lightbox/themes/default/js/ 1 428 0 0
+/2014/06/19/the-woman-is-the-most-perfect-doll/ 1 27831 0 0
+/wp-content/plugins/simple-lightbox/template-tags/ 1 403 0 0
+/blog/page/3/ 1 31899 0 0
+/wp-content/plugins/woocommerce/ 1 699 0 0
+/wp-content/plugins/simple-lightbox/content-handlers/ 1 379 0 0
+/2014/06/19/honey-hunters-of-nepal/ 1 26711 0 0
+/wp-content/plugins/simple-lightbox/template-tags/ui/js/prod/ 1 421 0 0
+/wp-includes/compat.php 1 0 0 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.eot 1 68875 0 0
+/wp-includes/comment.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/template-tags/item/js/dev/ 1 429 0 0
+/wp-content/themes/notio-wp/assets/demo/ 1 614 0 0
+/wp-content/plugins/simple-lightbox/l10n/ 1 529 0 0
+/wp-content/plugins/simple-lightbox/content-handlers/image/js/ 1 452 0 0
+/wp-content/plugins/contact-form-7/admin/includes/ 1 656 0 0
+/product/pasta-la-vista/ 1 33412 0 0
+/wp-content/plugins/contact-form-7/includes/contact-form.php 1 0 0 0
+/wp-includes/functions.wp-styles.php 1 0 0 0
+/author/kmctigue/page/2/ 1 31092 0 0
+/product/wall-hanged-board/ 5 249706 0 0
+/wp-content/plugins/simple-lightbox/client/js/dev/ 1 491 0 0
+/wp-includes/revision.php 1 0 0 0
+/wp-content/plugins/contact-form-7/includes/contact-form-template.php 1 0 0 0
+/wp-includes/meta.php 1 0 0 0
+/wp-content/plugins/contact-form-7/admin/includes/tag-generator.php 1 0 0 0
+/wp-includes/pluggable.php 1 0 0 0
+/portfolio/draconis/ 3 76236 0 0
+/wp-content/plugins/simple-lightbox/template-tags/item/ 1 391 0 0
+/wp-includes/general-template.php 1 0 0 0
+/product/fire-fighter-vodka/ 1 31963 0 0
+/wp-content/plugins/simple-lightbox/content-handlers/image/ 1 402 0 0
+/wp-includes/query.php 1 0 0 0
+/product/contemporary-lamp/ 1 33251 0 0
+/product-category/accessory/ 3 112805 0 0
+/product/blue-box/ 1 35398 0 0
+/wp-content/plugins/woocommerce/uninstall.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/baseline/sass/ 1 411 0 0
+/wp-content/plugins/simple-lightbox/themes/default/images/ 1 702 0 0
+/blog/page/2/ 1 31698 0 0
+/wp-content/themes/notio-wp/assets/ 1 501 0 0
+/wp-includes/wp-diff.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/themes/black/css/ 1 398 0 0
+/wp-content/plugins/woocommerce/assets/ 1 453 0 0
+/2014/09/17/gallery-post/ 4 127154 0 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.ttf 1 138204 0 0
+/wp-includes/deprecated.php 1 0 0 0
+/wp-content/plugins/simple-lightbox/includes/class.utilities.php 1 0 0 0
+/wp-includes/default-constants.php 1 0 0 0
+END_SIDER

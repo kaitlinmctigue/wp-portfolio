@@ -1,0 +1,624 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+# Last config file used to build this data file was /home/kmctigue/tmp/awstats/awstats.katiemctigue.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2693                
+POS_VISITOR 15111               
+POS_DAY 19140               
+POS_DOMAIN 3615                
+POS_LOGIN 4025                
+POS_ROBOT 4180                
+POS_WORMS 4716                
+POS_EMAILSENDER 4847                
+POS_EMAILRECEIVER 4990                
+POS_SESSION 20003               
+POS_SIDER 20213               
+POS_FILETYPES 5125                
+POS_DOWNLOADS 5406                
+POS_OS 5659                
+POS_BROWSER 5928                
+POS_SCREENSIZE 6862                
+POS_UNKNOWNREFERER 6936                
+POS_UNKNOWNREFERERBROWSER 7393                
+POS_ORIGIN 7655                
+POS_SEREFERRALS 7797                
+POS_PAGEREFS 7972                
+POS_SEARCHWORDS 11526               
+POS_KEYWORDS 11735               
+POS_MISC 2356                
+POS_ERRORS 11855               
+POS_CLUSTER 3881                
+POS_SIDER_404 12000               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160601001207 87 14372 10263640624783
+FirstTime 20160501012951
+LastTime 20160531223404
+LastUpdate 20160601070343 87 0 86 0 0
+TotalVisits 443                 
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 105                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 14 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 226 309 62439295 31 97 5145532
+1 569 569 117557725 28 41 934349
+2 28 28 14911 44 124 10784231
+3 103 103 11401230 50 104 3364106
+4 461 512 89895015 40 71 1288020
+5 377 377 68143070 34 95 3165615
+6 32 87 31215070 36 63 2309291
+7 427 501 102587888 42 139 8918542
+8 910 912 185613210 37 167 7013590
+9 236 236 42895456 40 65 1241882
+10 28 105 13174647 24 43 21500503
+11 50 191 21022127 34 63 2311063
+12 36 44 3664157 35 59 1668851
+13 34 37 1189550 38 109 10834109
+14 38 39 50726 59 127 43303589
+15 25 26 569081 27 83 6942103
+16 466 466 88016698 37 101 4269672
+17 434 438 78860522 49 97 2135527
+18 391 512 114314634 29 105 4856973
+19 61 249 10943661 43 78 1181969
+20 390 504 93637612 26 41 411620
+21 675 677 132379234 39 51 793764
+22 1310 1311 268006648 27 77 17454686
+23 16 16 3146 28 68 101324647
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+fr 6487 6489 1331631643
+us 795 1717 189027592
+ru 23 24 16820805
+ua 8 8 43692
+vn 2 2 3368
+br 1 1 1684
+jp 1 1 1668
+hu 1 1 1668
+fi 1 1 1668
+gi 1 1 1675
+ro 1 1 1668
+de 1 1 1668
+gb 1 1 1668
+eg 0 1 54846
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 611 24949601 20160531055448 26
+bot[\s_+:,\.\;\/\\-] 559 164099946 20160531232417 120
+spider 237 15406041 20160531152258 0
+bingpreview 137 9882341 20160527070014 0
+[\s_+:,\.\;\/\\-]bot 129 4668991 20160530234922 0
+googlebot\-image 41 41925391 20160530234340 0
+unknown 15 21888 20160527152117 15
+no_user_agent 4 6672 20160530132448 0
+curl 2 31974 20160525184542 0
+crawl 2 63948 20160505093342 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 192 11673618 0 0
+png 181 32691724 0 0
+woff 11 614584 0 0
+woff2 6 386784 0 0
+txt 2 2070 0 0
+php 7019 1333383993 0 0
+html 287 2295644 0 0
+jpg 225 145858792 0 0
+js 290 7244125 0 0
+gif 31 3428046 0 0
+svg 5 15933 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/wp-content/uploads/2015/11/Resume_K_McTigue_2015.pdf 12 0 19340172
+/wp-content/uploads/2016/01/Interactive_Planner_CLIPCHAMP_keep.mp4 7 0 123261985
+/wp-content/plugins/contact-form-7/license.txt 2 0 2070
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+blackberry 2 2
+linuxandroid 92 8
+winxp 25 22
+winlong 108 107
+ios_iphone 131 11
+unix 1 0
+winnt 94 9
+macosx5 1 1
+linux 20 17
+win7 6493 6483
+macosx 643 80
+win8 1 1
+win8.1 27 25
+Unknown 608 556
+ios_ipad 3 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+msie6.0 13 13
+firefox28.0 3 3
+chrome40.0.2214.115 1 1
+opera12.17 3 3
+chrome50.0.2661.89 91 8
+chrome49.0.2623.110 3 2
+safari10.0.9.2709 55 4
+chrome19.0.1042.0 1 1
+firefox31.0 2 2
+opera12.14 103 103
+msie8.0 4 3
+chrome50.0.2661.94 493 63
+chrome7.0.514.0 1 1
+firefox43.0 1 0
+safari9.1.1 37 2
+chrome50.0.2661.102 171 20
+chrome37.0.2062.120 2 2
+chrome41.0.2272.89 1 1
+safari8.0 2 0
+msie9.0 6469 6469
+chrome49.0.2623.112 2 0
+Unknown 552 552
+firefox11.0 4 2
+chrome11.0.697.0 1 1
+chrome10.0.648.127 1 1
+chrome30.0.0.0 1 0
+blackberry 2 2
+chrome45.0.2454.99 1 1
+safari8.0.5 1 0
+msie6.01 1 1
+chrome13.0.782.24 1 0
+safari9.1 1 0
+firefox29.0 1 1
+firefox46.0 12 4
+chrome28.0.1500.71 1 1
+chrome12.0.724.100 1 0
+safari9.0 140 14
+mozilla 3 2
+chrome48.0.2564.109 22 22
+firefox14.0.1 9 9
+msie10.0 1 1
+chrome13.0.782.20 1 1
+opera11.50 4 4
+firefox3.6.3 1 1
+opera8.50 1 1
+chrome41.0.2228.0 1 1
+safari 27 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.0.9.2709_Mobile_Safari/537.10_ 20160524040603
+Go-http-client/1.1 20160514031458
+WordPress/4.3.4;_http://katiemctigue.com 20160531223404
+WordPress/4.3.3;_http://katiemctigue.com 20160506123404
+MobileSafari/601.1_CFNetwork/758.3.15_Darwin/15.4.0 20160516073326
+WWW-Mechanize/1.73 20160517145717
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20160514031458
+WordPress/4.3.4;_http://katiemctigue.com 20160531223404
+WordPress/4.3.3;_http://katiemctigue.com 20160506123404
+WWW-Mechanize/1.73 20160517145717
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7188 7194
+From1 1 1
+From2 8 23
+From3 2 85
+From4 124 946
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 6 21
+bing 1 1
+sogou 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 40
+http://pizza-tycoon.com 1 1
+http://hundejo.com 1 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023677757/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023530824/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021760158/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023900870/index.html 0 3
+http://codepen.io/kaitlinmctigue/screenshot/eZxwNM/ 0 23
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021402615/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021618161/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021306157/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023504976/index.html 0 1
+http://s.codepen.io/kaitlinmctigue/fullpage/eZxwNM 0 12
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023392734/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023438101/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023516095/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023681814/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023079794/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463022712444/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021283648/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023717164/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463022496379/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023625685/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023483432/index.html 0 2
+http://codepen.io/kaitlinmctigue/screenshot/vGPQZB/ 0 3
+http://s.codepen.io/boomerang/e73b2e8b235fbd81f0e13e8cccde6c6d1463024086282/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021227308/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023524202/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021086215/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463022885314/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023499104/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023638746/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463022325663/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023501767/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023652800/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023817676/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023743386/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023459520/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463023623314/index.html 0 2
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463021693465/index.html 0 1
+http://s.codepen.io/boomerang/7a6e09bd195ba43753144efac2e706471463022069876/index.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+katiemctigue.com 1
+katie+mctigue+cincinnati 1
+anything 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+cincinnati 1
+katiemctigue.com 1
+katie 1
+anything 1
+mctigue 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 17 0
+405 3 126
+500 10 0
+406 24 55586
+301 135 482
+404 124 2035817
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 60
+/sitemap.xml 2 -
+/wp-content/plugins/user-photo/admin.css 2 -
+/wordpress/ 5 -
+/wp-content/plugins/wpstorecart/lgpl.txt 2 -
+/wp-content/plugins/fcchat/default.png 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 2 -
+/resume/www.thomasvillearts.org/thom-magazine/ 3 -
+/wp-content/uploads/2016/01/Wufoo-%C3%82%C2%B7-Entry-Manager1-1024x814.jpg 1 -
+/www.thomasvillearts.org/thom-magazine 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 2 -
+/wp-admin/install.php 1 -
+/sitemap/ 2 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 2 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 2 -
+/wp-content/plugins/user-avatar/readme.txt 2 -
+/sitemap 2 -
+/wp-content/plugins/gravityforms/js/gravityforms.js 1 -
+/lis4381/images/slide2.png 1 http://katiemctigue.com/lis4381/
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 2 -
+/xmlrpc.php 2 -
+/wp-content/plugins/wp-filemanager/fm.php 2 -
+/portfolio/feed/ 5 -
+/license.php 1 http://katiemctigue.com/license.php
+/wp-content/plugins/wp-property/action_hooks.php 2 -
+/wp-content/plugins/custom-content-type-manager/index.html 2 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 2 -
+/lknkjkj 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 2 -
+/admin123/ 1 -
+/wp-content/plugins/user-meta/readme.txt 2 -
+/user/ 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 2 -
+/lis4381/images/slide1.png 1 http://katiemctigue.com/lis4381/
+/wp-content/plugins/auto-attachments/a-a.css 2 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 2 -
+/wp-content/plugins/wpmarketplace/css/extends_page.css 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 2 -
+/wp-content/plugins/image-slider-widget/js/jquery/prettyphoto/%7Bpath%7D 1 -
+/wp-content/plugins/robo-gallery/includes/rbs_gallery_ajax.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 2 -
+/wp-content/plugins/zingiri-web-shop/admin.css 2 -
+/home-masonry-style-2/ 1 -
+/wp 3 http://katiemctigue.com/wp
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 2 -
+/wp-content/plugins/simple-dropbox-upload-form/ 2 -
+/wp-content/plugins/front-end-upload/destination.php 4 -
+/wp-content/plugins/wpmarketplace/readme.txt 4 -
+/administrator/ 3 -
+/wp-content/plugins/woocommerce/assets/js/frontend/'+wc_add_to_cart_params.cart_url+' 1 -
+/wp-content/plugins/wp-editor/wpeditor.css 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 2 -
+/wp-content/plugins/wysija-newsletters/js/tinymce/tiny_mce.js 1 -
+/wp-content/plugins/showbiz/js/showbiz_admin.js 1 -
+/wp-login.php 16 -
+/downloader 1 -
+/lis4381/js/ie10-viewport-bug-workaround.js 1 http://katiemctigue.com/lis4381/
+/lis4381/images/slide3.png 1 http://katiemctigue.com/lis4381/
+/superadmin/ 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 2 -
+/admin/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 105
+195.154.240.176 1490 1490 308023171 20160512213307
+195.154.235.105 1489 1489 308015811 20160506224355
+195.154.236.233 746 746 154121931 20160522225532
+195.154.250.118 746 746 154121931 20160519014304
+195.154.237.108 745 745 154114571 20160503183252
+195.154.243.31 743 743 153687909 20160506082758
+198.252.65.4 549 549 142128 20160531223404
+195.154.232.138 434 434 87973428 20160510163528
+195.154.250.248 75 75 11387599 20160503034132
+73.19.148.120 45 285 12647217 20160519160141
+54.149.221.60 38 38 15314 20160531223403
+52.40.37.120 36 36 14508 20160527002649
+54.67.75.93 24 24 9672 20160512104640
+69.85.212.146 18 159 21008536 20160525110655
+195.154.146.225 12 12 110934 20160530210641
+69.58.178.59 11 11 415817 20160503203505
+69.246.153.129 9 93 35630311 20160523184942
+70.209.55.25 7 41 27367003 20160512201144
+70.215.129.33 7 90 25861395 20160523003411
+75.130.130.214 6 63 4973649 20160516073340
+71.12.216.45 6 74 14742923 20160516075803
+98.28.193.192 4 55 4040546 20160524040601
+54.174.82.241 4 4 1612 20160505124551
+72.184.122.93 4 80 12589771 20160509102246
+91.77.24.255 3 3 59282 20160503135314
+46.161.57.208 1 1 1675 20160508054958
+108.171.128.167 0 1 16699171 
+68.54.165.6 0 1 158699 
+45.32.128.51 2 2 33642 20160522195058
+52.38.58.204 1 1 403 20160512094933
+70.198.130.69 1 1 1290 20160523122619
+217.128.213.47 2 3 34677 20160529145810
+208.52.182.66 0 26 1839436 
+52.40.40.56 1 1 1668 20160517145717
+91.239.24.212 1 1 1675 20160508055023
+37.187.129.166 1 1 1668 20160524154031
+54.200.2.236 1 1 2892 20160504173538
+66.249.88.123 0 1 527168 
+95.175.97.229 1 1 1668 20160505003847
+173.208.136.114 1 1 1668 20160512063501
+212.108.212.239 1 1 1668 20160525184531
+185.50.251.111 1 1 1675 20160508054943
+185.46.86.67 1 1 1675 20160508054955
+146.185.204.216 1 1 1675 20160508054946
+68.42.48.66 0 1 3204821 
+68.169.168.202 0 2 1036056 
+91.238.82.29 1 1 1675 20160508054926
+184.1.86.238 2 37 2084092 20160523184803
+50.155.174.102 0 1 441937 
+208.184.112.75 0 1 2726 
+91.215.137.63 1 1 1675 20160508054941
+45.58.42.193 1 1 1668 20160503095633
+52.38.4.91 1 1 1668 20160513184720
+86.122.244.157 1 1 1668 20160514031458
+208.42.251.123 1 1 1668 20160504145709
+178.57.65.179 1 1 1675 20160508054953
+128.177.161.152 0 1 140527 
+188.143.232.70 1 1 1700 20160508220151
+73.180.5.65 0 1 102637 
+54.211.245.247 1 1 1668 20160511021807
+52.90.234.164 1 1 2892 20160526022534
+73.153.163.169 1 3 226619 20160519214223
+109.11.1.43 2 3 34677 20160504171210
+207.66.239.246 0 1 574859 
+150.70.173.8 1 1 1668 20160504211822
+92.241.245.126 2 2 3336 20160516151519
+46.243.173.75 1 1 1675 20160508054938
+46.148.30.189 1 1 1675 20160508054951
+146.185.206.185 1 1 1675 20160508055021
+64.246.165.170 1 1 1682 20160516165008
+70.62.243.210 0 1 331702 
+5.62.154.77 1 1 1675 20160508054930
+54.145.234.152 1 2 4394 20160522172105
+52.40.152.26 1 1 2892 20160530065858
+185.14.195.17 2 2 33649 20160508055028
+179.184.46.56 1 1 1684 20160512214338
+5.101.217.192 1 1 1675 20160508054949
+193.106.31.34 1 1 1675 20160508055016
+5.196.66.162 1 1 1668 20160505030334
+195.34.78.225 1 1 1675 20160508055018
+195.245.112.158 1 1 1668 20160525202228
+66.249.93.131 0 1 527168 
+98.230.118.26 3 8 28483 20160501120919
+46.17.97.73 2 2 32198 20160521152508
+46.148.31.249 1 1 1675 20160508054933
+185.106.104.145 1 1 1675 20160508054935
+54.152.37.184 1 1 2892 20160524054141
+178.57.65.199 1 1 1675 20160508055007
+149.88.45.61 0 1 248072 
+188.32.138.134 1 1 1668 20160516032954
+213.239.205.118 1 1 1668 20160508051139
+37.187.92.25 1 1 1668 20160502065808
+113.161.220.41 1 1 1684 20160505010632
+197.35.218.177 0 1 54846 
+71.170.226.243 0 2 1034171 
+35.2.228.155 0 1 61351 
+67.177.125.4 1 3 226596 20160523171204
+172.99.84.234 1 1 1668 20160505213821
+113.175.227.69 1 1 1684 20160529111559
+69.170.216.69 2 2 4576 20160529205541
+208.184.112.74 1 1 1668 20160504204824
+178.19.253.70 0 1 16699171 
+193.106.31.118 1 1 1668 20160522194313
+91.230.110.26 1 1 1675 20160508055004
+95.181.217.174 1 1 1675 20160508055002
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160501 19 25 473187 15
+20160502 22 22 37437 18
+20160503 860 861 166128399 19
+20160504 23 25 77344 19
+20160505 776 779 171864977 22
+20160506 1506 1506 307591277 15
+20160507 16 18 3737129 11
+20160508 45 45 75411 36
+20160509 20 96 12592538 14
+20160510 1193 1193 241908769 13
+20160511 60 327 14990323 11
+20160512 811 846 181614392 18
+20160513 9 11 117936 8
+20160514 17 17 4823 11
+20160515 14 14 2127 11
+20160516 27 154 20213090 15
+20160517 14 14 6491 10
+20160518 30 30 18575 10
+20160519 779 782 154973958 14
+20160520 20 20 8224 9
+20160521 26 26 42620 13
+20160522 767 768 154165818 14
+20160523 37 241 63809852 16
+20160524 26 154 23266241 12
+20160525 32 99 3081417 16
+20160526 49 49 16665 14
+20160527 16 16 4719 13
+20160528 7 7 1028 6
+20160529 22 23 45191 13
+20160530 19 20 16705858 14
+20160531 61 61 19497 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 41
+5mn-15mn 3
+30s-2mn 6
+15mn-30mn 11
+2mn-5mn 6
+0s-30s 351
+30mn-1h 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/xmlrpc.php 6348 1330655220 9 19
+/wp-cron.php 412 2319 332 288
+/wp-login.php 217 814074 6 4
+/wp-content/plugins/simple-lightbox/themes/baseline/layout.html 136 139808 4 48
+/ 80 928015 50 44
+/resume/ 25 264473 21 20
+/wp-admin/admin-ajax.php 17 516313 0 1
+/feed/ 10 16730 7 0
+/wp-admin/load-scripts.php 10 698662 0 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.woff2 6 386784 1 0
+/portfolio/dci-passport/ 5 118330 2 2
+/author/kmctigue/ 5 37266 3 5
+/contact/ 5 114037 0 3
+/wp-admin/async-upload.php 4 6569 0 0
+/portfolio/women-drowning-photos/ 4 85552 2 3
+/wp-admin/load-styles.php 3 273127 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff 3 196356 0 1
+/readme.html 3 22080 3 0
+/wp-content/plugins/js_composer/assets/css/lib/vc-entypo/fonts/vc_entypo.woff 3 135456 0 0
+/wp-admin/ 3 285332 0 0
+/wp-content/plugins/agp-font-awesome-collection/vendor/components/font-awesome/fonts/fontawesome-webfont.woff 3 243852 0 0
+/9/ 2 32857 0 1
+/wp-admin/about.php 2 122604 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 38920 0 0
+/wp-admin/upload.php 2 215266 0 0
+/wp-admin/media-new.php 1 58888 0 0
+/lis4381/p2/index.php 1 15099 0 1
+/lis4381/a2/index.php 1 5851 0 0
+/lis4381/ 1 5504 1 0
+/portfolio/fsu-planner/ 1 41437 0 0
+/comments/feed/ 1 1682 1 1
+/portfolio/nesting/ 1 30276 0 1
+/portfolio/seo-ace-website/ 1 42643 0 0
+/portfolio/coastal/ 1 45508 0 0
+/wp-admin/upgrade.php 1 1 1 1
+/portfolio/draconis/ 1 25412 0 0
+/aboutme/ 2 58702 0 0
+END_SIDER

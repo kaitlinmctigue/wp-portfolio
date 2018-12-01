@@ -1,0 +1,17 @@
+/* This is a comment */
+
+    p{
+        color: #cccccc;
+        margin: 20pm;
+    }
+    body{
+        font-family: Geneva, Arial, Helvetica, san-serif;
+        font-size: .9em;
+        line-height: 1.6em;
+    }
+    img {
+        float: right;
+        border: 1px solid #9b9744;
+        padding: 6px;
+        margin 0 0 6px 12px;
+    }

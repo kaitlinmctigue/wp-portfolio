@@ -1,0 +1,206 @@
+/* CSS by Katie McTigue, June 3rd 2015 */
+
+body {
+	font-family: Helvetica, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 1.6em;
+	color: #222222;
+	background: #518EC0;
+	padding: 0px
+	margin: 0px
+}
+
+/* basic text styles ----------------------------  */
+p, li{
+	letter-spacing: 0.1em;
+	color: #222222;
+	padding: 30px;
+	list-style-type: circle;
+	font-weight: 300;
+	font-size: 14px;
+}
+
+
+	
+td {
+	letter-spacing: 0.1em;
+	color: #222222;
+	font-size: 14px;
+	font-weight: 300;
+}
+h1 {
+	font-weight: bold;
+	text-align: center;
+	font-size: 15px;
+	line-height: 2em;
+	color: #222222;
+}
+h2 {
+	font-size: 20px;
+	padding: 6px;
+	font-variant: normal;
+	letter-spacing: 0.2em;
+	color: #ffffff;
+	background-color: #013F8D;
+}
+
+/* I didn't use h3
+
+h3 {
+	font-size: 17px;
+	letter-spacing: 0.5em;
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #9B9744;
+	padding: 4px 0;
+	font-variant: small-caps;
+	font-style: italic;
+}
+*/
+
+h4 {
+	font-size: 16px;
+	padding: 6px;
+	font-variant: normal;
+	letter-spacing: 0.2em;
+	color: #222222;
+	font-weight: bold;
+}
+
+/* link styles ---------------------------- */
+a:link {
+	font-weight: bold;
+	color: #222222;
+	text-decoration: none;
+	text-decoration: underline;
+}
+a:visited {
+	font-weight: bold;
+	color: #013F8D;
+	text-decoration: none;
+	text-decoration: underline;
+}
+a:hover {
+	color: #013F8D;
+	text-decoration: underline;
+}
+
+/* list styles ----------------------------- */
+ul li {
+	list-style: none; /* eliminates bullets */
+	margin-left: 24px;
+}
+ol {
+	margin-left: 14px;
+}
+
+/* table styles -------------------------------------- */
+table {
+	border: solid # 1px;
+}
+td {
+	padding: 6px;
+	border: solid #808A32 1px;
+}
+th {
+	font-weight: bold;
+	background-color: #808A32;
+	text-align: center;
+	padding: 6px;
+	border: solid #808A32 1px;
+}
+
+/* border styles ------------------------------------ */
+hr {
+	border: double #808A32 1px;
+}
+
+img {
+	border: double #808A32 1px;
+
+}
+iframe {
+	border: double #808A32 1px;
+	padding: 6px;
+	margin: 6px;
+}
+
+/*DIV STYLES */
+
+#container {
+  width: 1000px;
+  margin: 0 auto;
+  border: 0px solid #000;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+/* Header Styles */
+#header{
+  width: 1000px;
+  background-color: #013F8D;
+  padding: 0;
+  border-top: double #013F8D 5px;
+}
+#header h3{
+  margin: 0;
+  padding: 0;
+}
+
+/* Main content styles */
+#content{
+  width: 790px;
+  background-color: #fff;
+  float: left;
+  overflow: hidden;
+  margin: 2px
+}
+/* Sidebar styles */
+#sidebar{
+  width: 200px;
+  background-color: #808A32;
+  padding: 0px;	
+  float: left;
+  margin-right: 0px;
+  margin-top: 20px;
+  margin-left: 2px;
+  border: solid #999933 1px;
+  border-radius: 9px;
+  overflow: hidden;
+}
+#sidebar h1 {
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+}
+#sidebar h3 {
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#sidebar p {
+  font-style: italic;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0;
+}
+#sidebar img {
+  width: 150px;
+}
+/* Footer styles */
+#footer{
+  width: 100%;
+  background-color: #518EC0;
+  text-align: center;
+  padding: 20px 0;
+  clear: both;
+  border-top: double #808A32 5px;
+}
+#footer p {
+  font-size: .7em;
+  margin: 0 40px;
+}
